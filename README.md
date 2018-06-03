@@ -1,5 +1,5 @@
 # Subeeper
-Semi-automatic subtitle editor
+Semi-automatic subtitle editor (didactical project for Cognitive Services course)
 ![alt text](resources/logo.png?raw=true "")
 
 ## Abstract
