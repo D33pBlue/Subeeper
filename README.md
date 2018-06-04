@@ -1,6 +1,5 @@
 # Subeeper
 Semi-automatic subtitle editor (didactical project for Cognitive Services course)
-![alt text](resources/logo.png?raw=true "")
 
 ## Abstract
 The aim of this project is to implement a
@@ -28,6 +27,10 @@ information about the current time position
 and to edit the text which will be shown as
 subtitle. A mockup is reported here:
 ![alt text](resources/mockup2.png?raw=true "")
+
+## Design
+The architecture follows MVC design pattern. A simple class diagram is reported to show the main structure
+![alt text](resources/classdiagram.png?raw=true "")
 
 ## Dependencies
 - PyQt5 (http://pyqt.sourceforge.net/Docs/PyQt5/installation.html)
