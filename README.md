@@ -28,3 +28,7 @@ information about the current time position
 and to edit the text which will be shown as
 subtitle. A mockup is reported here:
 ![alt text](resources/mockup2.png?raw=true "")
+
+## Dependencies
+- PyQt5 (http://pyqt.sourceforge.net/Docs/PyQt5/installation.html)
+- VLC media player (https://www.videolan.org/vlc/index.it.html)
