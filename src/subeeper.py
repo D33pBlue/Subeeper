@@ -19,26 +19,68 @@ class MainWindow(QMainWindow):
         self.setWindowIcon(QIcon(RESDIR+"/icon3.png"))
         self.stack = QStackedWidget()
         self.setCentralWidget(self.stack)
-        self.stack.addWidget(self.buildLogoPage())
-        self.stack.addWidget(self.buildMainPage())
-        self.stack.setCurrentIndex(1)
-        self.showMaximized()
+        self.loadPage = LoadPage(self)
+        self.editPage = EditPage(self)
+        self.stack.addWidget(self.loadPage)
+        self.stack.addWidget(self.editPage)
+        self.stack.setCurrentIndex(0)
+        # self.showMaximized()
+        self.show()
 
-    def buildLogoPage(self):
-        self.logo = QLabel()
-        self.logo.setPixmap(QPixmap(RESDIR+"/logo.png"))
-        self.logo.setAlignment(Qt.AlignCenter)
-        return self.logo
 
-    def buildMainPage(self):
-        self.main = QWidget()
+
+class LoadPage(QWidget):
+    def __init__(self,parent):
+        super(LoadPage,self).__init__()
+        self.parent = parent
+        self.initUI()
+
+    def initUI(self):
+        lay = QVBoxLayout()
+        self.setLayout(lay)
+        logo = QLabel()
+        logo.setPixmap(QPixmap(RESDIR+"/logo.png"))
+        logo.setAlignment(Qt.AlignCenter)
+        lay.addStretch(1)
+        lay.addWidget(logo)
+        lay.addStretch(1)
+        buttons_menu = QWidget()
+        btnlay = QHBoxLayout()
+        buttons_menu.setLayout(btnlay)
+        lay.addWidget(buttons_menu)
+        btn_video = QPushButton("Load Video")
+        btn_project = QPushButton("Load Project")
+        btn_exit = QPushButton("Exit")
+        btn_video.clicked.connect(self.load_video)
+        btn_project.clicked.connect(self.load_project)
+        btn_exit.clicked.connect(QCoreApplication.quit)
+        btnlay.addStretch(1)
+        btnlay.addWidget(btn_video)
+        btnlay.addWidget(btn_project)
+        btnlay.addWidget(btn_exit)
+        btnlay.addStretch(1)
+
+    def load_video(self):
+        self.parent.stack.setCurrentIndex(1)
+
+    def load_project(self):
+        self.parent.stack.setCurrentIndex(1)
+
+
+
+class EditPage(QWidget):
+    def __init__(self,parent):
+        super(EditPage,self).__init__()
+        self.parent = parent
+        self.initUI()
+
+    def initUI(self):
         mainLayout = QVBoxLayout()
-        self.main.setLayout(mainLayout)
+        self.setLayout(mainLayout)
         mainLayout.addWidget(self.buildMaintop())
         self.subeditor = QPlainTextEdit()
         self.subeditor.setMaximumHeight(100)
         mainLayout.addWidget(self.subeditor)
-        return self.main
 
     def buildMaintop(self):
         self.maintop = QWidget()
@@ -65,7 +107,6 @@ class MainWindow(QMainWindow):
         self.videoframe.setPalette(self.palette)
         self.videoframe.setAutoFillBackground(True)
         return self.videoframe
-
 
     def buildSidePannel(self):
         self.sidepannel = QWidget()
@@ -106,7 +147,6 @@ class MainWindow(QMainWindow):
         lay.addWidget(self.playbutton)
         lay.addWidget(self.nextbutton)
         return w
-
 
     def openFile(self):
         fileName, _ = QFileDialog.getOpenFileName(self, "Open Movie",
