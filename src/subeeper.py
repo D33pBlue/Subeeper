@@ -1,3 +1,10 @@
+#####################################################
+#                   [subeeper.py]                   #
+#   Subeeper                                        #
+#   version: 1.0                                    #
+#   author: D33pBlue (B.F.)                         #
+#   Didactical project for Cognitive Services       #
+#####################################################
 from PyQt5.QtWidgets import *
 from PyQt5.QtGui import QIcon,QPixmap,QColor,QPalette
 from PyQt5.QtCore import *
@@ -5,10 +12,19 @@ from PyQt5.QtCore import Qt
 import vlc
 import sys
 
+# path to resources folder
 RESDIR = "../resources"
 
-class MainWindow(QMainWindow):
+# path to a file with IBM Watson Speech-to-Text API
+# credentials (separated by lines)
+IBMCRED = "~/IBMSTT.cred"
 
+# path to a file with Microsoft Speech-to-Text API
+# credentials (separated by lines)
+MICROSOFTCRED = "~/MICROSOFTSTT.cred"
+
+# the frame which contains GUI
+class MainWindow(QMainWindow):
     def __init__(self):
         super(MainWindow,self).__init__()
         self.initUI()
