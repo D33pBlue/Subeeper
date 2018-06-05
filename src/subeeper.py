@@ -9,6 +9,8 @@ from PyQt5.QtWidgets import *
 from PyQt5.QtGui import QIcon,QPixmap,QColor,QPalette
 from PyQt5.QtCore import *
 from PyQt5.QtCore import Qt
+import controller as cnt
+import time
 import vlc
 import sys
 
@@ -35,9 +37,11 @@ class MainWindow(QMainWindow):
         self.setWindowIcon(QIcon(RESDIR+"/icon3.png"))
         self.stack = QStackedWidget()
         self.setCentralWidget(self.stack)
+        self.preprocessPage = PreprocessPage(self)
         self.loadPage = LoadPage(self)
         self.editPage = EditPage(self)
         self.stack.addWidget(self.loadPage)
+        self.stack.addWidget(self.preprocessPage)
         self.stack.addWidget(self.editPage)
         self.stack.setCurrentIndex(0)
         # self.showMaximized()
@@ -46,10 +50,12 @@ class MainWindow(QMainWindow):
 
 
 class LoadPage(QWidget):
+    trigger = pyqtSignal(['QString'])
     def __init__(self,parent):
         super(LoadPage,self).__init__()
         self.parent = parent
         self.initUI()
+        self.trigger.connect(parent.preprocessPage.setVideo)
 
     def initUI(self):
         lay = QVBoxLayout()
@@ -78,9 +84,72 @@ class LoadPage(QWidget):
 
     def load_video(self):
         self.parent.stack.setCurrentIndex(1)
+        video = "/home/d33pblue/Documenti/uni/CSproject/300/300.mp4"
+        self.trigger.emit(video)
 
     def load_project(self):
-        self.parent.stack.setCurrentIndex(1)
+        self.parent.stack.setCurrentIndex(2)
+
+
+
+class PreprocessPage(QWidget):
+    def __init__(self,parent):
+        super(PreprocessPage,self).__init__()
+        self.parent = parent
+        self.initUI()
+        self.ppunit = cnt.PreprocessUnit(self)
+
+    def initUI(self):
+        lay = QVBoxLayout()
+        self.setLayout(lay)
+        title = QLabel("Preprocess video")
+        font = title.font()
+        font.setPointSize(30)
+        font.setBold(True)
+        title.setFont(font)
+        title.setAlignment(Qt.AlignCenter)
+        self.progbar = QProgressBar()
+        self.progbar.setMaximum(100)
+        self.progbar.setMinimum(0)
+        self.progbar.setValue(0)
+        self.videoname = QLabel("video..")
+        self.videoname.setAlignment(Qt.AlignCenter)
+        self.btn_start = QPushButton("Start")
+        self.btn_start.clicked.connect(self.startTask)
+        lay.addStretch(1)
+        lay.addWidget(title)
+        lay.addWidget(self.videoname)
+        lay.addWidget(self.btn_start)
+        lay.addWidget(self.progbar)
+        self.ck_audioext = self.addTaskLabel(lay,"Audio Extraction____")
+        self.ck_ibm = self.addTaskLabel(lay,"IBM API_____________")
+        self.ck_chunks = self.addTaskLabel(lay,"Making chunks______")
+        self.ck_microsoft = self.addTaskLabel(lay,"Microsoft API________")
+        lay.addStretch(1)
+
+    def setVideo(self,video):
+        self.video = video
+        self.processed = False
+        self.videoname.setText("Video: "+video)
+
+    def startTask(self,video):
+        if not self.processed:
+            self.btn_start.setEnabled(False)
+            self.ppunit.preprocess(self.video)
+
+
+    def addTaskLabel(self,layout,text):
+        w = QWidget()
+        lay = QHBoxLayout()
+        w.setLayout(lay)
+        checkbox = QCheckBox()
+        checkbox.setEnabled(False)
+        lay.addStretch(1)
+        lay.addWidget(checkbox)
+        lay.addWidget(QLabel(text))
+        lay.addStretch(1)
+        layout.addWidget(w)
+        return checkbox
 
 
 

@@ -33,5 +33,6 @@ The architecture follows MVC design pattern. A simple class diagram is reported 
 ![alt text](resources/classdiagram.png?raw=true "")
 
 ## Dependencies
+- ffmpy and FFmpeg (https://www.ffmpeg.org/)
 - PyQt5 (http://pyqt.sourceforge.net/Docs/PyQt5/installation.html)
 - VLC media player (https://www.videolan.org/vlc/index.it.html)
