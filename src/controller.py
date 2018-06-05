@@ -8,10 +8,6 @@
 import model as mdl
 
 
-class ChunkManager:
-    def __init__(self):
-        pass
-
 class PreprocessUnit:
     def __init__(self,parent):
         self.parent = parent
@@ -22,3 +18,9 @@ class PreprocessUnit:
         audiomp3 = self.audioExtractor.getMp3(video)
         self.parent.ck_audioext.setChecked(True)
         self.parent.progbar.setValue(25)
+
+        
+
+class ChunkManager:
+    def __init__(self):
+        pass
