@@ -55,7 +55,7 @@ class LoadPage(QWidget):
         super(LoadPage,self).__init__()
         self.parent = parent
         self.initUI()
-        self.trigger.connect(parent.preprocessPage.setVideo)
+        self.trigger.connect(parent.preprocessPage.startTask)
 
     def initUI(self):
         lay = QVBoxLayout()
@@ -82,10 +82,15 @@ class LoadPage(QWidget):
         btnlay.addWidget(btn_exit)
         btnlay.addStretch(1)
 
+
     def load_video(self):
         self.parent.stack.setCurrentIndex(1)
-        video = "/home/d33pblue/Documenti/uni/CSproject/300/300.mp4"
-        self.trigger.emit(video)
+        fileName, _ = QFileDialog.getOpenFileName(self, "Choose Video",
+                QDir.homePath())
+        if fileName != None and fileName != "":
+            self.trigger.emit(fileName)
+        else:
+            self.parent.stack.setCurrentIndex(0)
 
     def load_project(self):
         self.parent.stack.setCurrentIndex(2)
@@ -120,21 +125,21 @@ class PreprocessPage(QWidget):
         lb.addStretch(1)
         lb.addWidget(self.progbar)
         lb.addStretch(1)
-        self.videoname = QLabel("video..")
+        self.videoname = QLabel("Choose video..")
         self.videoname.setAlignment(Qt.AlignCenter)
-        bsw = QWidget()
-        lv = QHBoxLayout()
-        bsw.setLayout(lv)
-        self.btn_start = QPushButton("Start")
-        self.btn_start.setMaximumWidth(100)
-        self.btn_start.clicked.connect(self.startTask)
-        lv.addStretch(1)
-        lv.addWidget(self.btn_start)
-        lv.addStretch(1)
+        # bsw = QWidget()
+        # lv = QHBoxLayout()
+        # bsw.setLayout(lv)
+        # self.btn_start = QPushButton("Start")
+        # self.btn_start.setMaximumWidth(100)
+        # self.btn_start.clicked.connect(self.startTask)
+        # lv.addStretch(1)
+        # lv.addWidget(self.btn_start)
+        # lv.addStretch(1)
         lay.addStretch(1)
         lay.addWidget(title)
         lay.addWidget(self.videoname)
-        lay.addWidget(bsw)
+        # lay.addWidget(bsw)
         lay.addWidget(barwidg)
         self.ck_audioext = self.addTaskLabel(lay,"Audio Extraction____")
         self.ck_ibm = self.addTaskLabel(lay,"IBM API_____________")
@@ -142,15 +147,15 @@ class PreprocessPage(QWidget):
         self.ck_microsoft = self.addTaskLabel(lay,"Microsoft API________")
         lay.addStretch(1)
 
-    def setVideo(self,video):
-        self.video = video
-        self.processed = False
-        self.videoname.setText("Video: "+video)
+    # def setVideo(self,video):
+    #     self.video = video
+    #     self.processed = False
+    #     self.videoname.setText("Video: "+video)
 
     def startTask(self,video):
-        if not self.processed:
-            self.btn_start.setEnabled(False)
-            self.ppunit.preprocess(self.video)
+        self.videoname.setText("Video: "+video)
+        # self.btn_start.setEnabled(False)
+        self.ppunit.preprocess(video)
 
 
     def addTaskLabel(self,layout,text):
