@@ -10,31 +10,23 @@ from PyQt5.QtGui import QIcon,QPixmap,QColor,QPalette
 from PyQt5.QtCore import *
 from PyQt5.QtCore import Qt
 import controller as cnt
+import configparser
 import time
 import vlc
 import sys
 
-# path to resources folder
-RESDIR = "../resources"
-
-# path to a file with IBM Watson Speech-to-Text API
-# credentials (separated by lines)
-IBMCRED = "~/IBMSTT.cred"
-
-# path to a file with Microsoft Speech-to-Text API
-# credentials (separated by lines)
-MICROSOFTCRED = "~/MICROSOFTSTT.cred"
-
 # the frame which contains GUI
 class MainWindow(QMainWindow):
-    def __init__(self):
+    def __init__(self,config):
         super(MainWindow,self).__init__()
+        self.config = config
+        self.RESDIR = self.config["DEFAULT"]["resdir"]
         self.initUI()
 
     def initUI(self):
         self.setGeometry(100, 100, 850, 550)
         self.setWindowTitle('Subeeper')
-        self.setWindowIcon(QIcon(RESDIR+"/icon3.png"))
+        self.setWindowIcon(QIcon(self.RESDIR+"/icon3.png"))
         self.stack = QStackedWidget()
         self.setCentralWidget(self.stack)
         self.preprocessPage = PreprocessPage(self)
@@ -61,7 +53,7 @@ class LoadPage(QWidget):
         lay = QVBoxLayout()
         self.setLayout(lay)
         logo = QLabel()
-        logo.setPixmap(QPixmap(RESDIR+"/logo.png"))
+        logo.setPixmap(QPixmap(self.parent.RESDIR+"/logo.png"))
         logo.setAlignment(Qt.AlignCenter)
         lay.addStretch(1)
         lay.addWidget(logo)
@@ -103,7 +95,7 @@ class PreprocessPage(QWidget):
         self.parent = parent
         self.video = ""
         self.initUI()
-        self.ppunit = cnt.PreprocessUnit(self)
+        self.ppunit = cnt.PreprocessUnit(self,self.parent.config)
 
     def initUI(self):
         lay = QVBoxLayout()
@@ -249,6 +241,8 @@ class EditPage(QWidget):
 
 
 if __name__ == '__main__':
+    config = configparser.ConfigParser()
+    config.read('config.ini')
     app = QApplication(sys.argv)
-    mw = MainWindow()
+    mw = MainWindow(config)
     sys.exit(app.exec_())
