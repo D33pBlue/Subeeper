@@ -32,11 +32,11 @@ class PreprocessThread(QThread):
         audiomp3 = self.audioExtractor.getMp3(self.video)
         self.parent.ck_audioext.setChecked(True)
         self.parent.progbar.setValue(25)
-        # transcription = self.ibmUtils.getTranscription(audiomp3)
-        transcription = self.getFakeTranscription()
+        transcription = self.ibmUtils.getTranscription(audiomp3)
+        # transcription = self.getFakeTranscription()
         self.parent.ck_ibm.setChecked(True)
         self.parent.progbar.setValue(50)
-        chunks = self.chunkMaker.makeChunks(transcription)
+        chunks = self.chunkMaker.makeChunks(self.video,transcription)
         self.parent.ck_chunks.setChecked(True)
         self.parent.progbar.setValue(75)
 
@@ -56,7 +56,8 @@ class PreprocessUnit:
             self.ibmUtils,
             self.audioExtractor,
             self.chunkMaker)
-        t.start()
+        # t.start()
+        t.run()
         print "started preprocess thread"
 
 
