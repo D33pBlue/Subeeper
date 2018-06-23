@@ -1,0 +1,8355 @@
+(imodel
+Video
+p0
+(dp1
+S'chunks'
+p2
+(lp3
+(imodel
+Chunk
+p4
+(dp5
+S'ibmtext'
+p6
+V what is life
+p7
+sS'silent'
+p8
+I00
+sS'text'
+p9
+S''
+p10
+sS'interval'
+p11
+(imodel
+Interval
+p12
+(dp13
+S'_Interval__mill1'
+p14
+F0.0
+sS'_Interval__mill2'
+p15
+F3.245
+sbsS'microtext'
+p16
+Vwhat's choose life
+p17
+sS'microsoftres'
+p18
+(dp19
+VDuration
+p20
+I15000000
+sVRecognitionStatus
+p21
+VSuccess
+p22
+sVNBest
+p23
+(lp24
+(dp25
+VITN
+p26
+g17
+sVConfidence
+p27
+F0.836985767
+sVLexical
+p28
+Vwhat's choose life
+p29
+sVMaskedITN
+p30
+Vwhat's choose life
+p31
+sVDisplay
+p32
+VWhat's choose life?
+p33
+sa(dp34
+VITN
+p35
+Vwhat's 2 's life
+p36
+sVConfidence
+p37
+F0.7831644
+sVLexical
+p38
+Vwhat's two 's life
+p39
+sVMaskedITN
+p40
+Vwhat's 2 's life
+p41
+sVDisplay
+p42
+VWhat's 2 's life?
+p43
+sa(dp44
+VITN
+p45
+Vwhat's Jews life
+p46
+sVConfidence
+p47
+F0.743751347
+sVLexical
+p48
+Vwhat's jews life
+p49
+sVMaskedITN
+p50
+Vwhat's Jews life
+p51
+sVDisplay
+p52
+VWhat's Jews life?
+p53
+sa(dp54
+VITN
+p55
+Vwhat's II's life
+p56
+sVConfidence
+p57
+F0.743751347
+sVLexical
+p58
+Vwhat's II 's life
+p59
+sVMaskedITN
+p60
+Vwhat's II's life
+p61
+sVDisplay
+p62
+VWhat's II's life?
+p63
+sa(dp64
+VITN
+p65
+Vwhat's to's life
+p66
+sVConfidence
+p67
+F0.743751347
+sVLexical
+p68
+Vwhat's to 's life
+p69
+sVMaskedITN
+p70
+Vwhat's to's life
+p71
+sVDisplay
+p72
+VWhat's to's life?
+p73
+sasVOffset
+p74
+I9000000
+ssS'videoseq'
+p75
+I1
+sS'timestamps'
+p76
+(lp77
+(F0.0
+F0.0
+g10
+tp78
+a(F0.93
+F1.22
+Vwhat
+p79
+tp80
+a(F1.38
+F1.64
+Vis
+p81
+tp82
+a(F1.64
+F2.03
+Vlife
+p83
+tp84
+asba(imodel
+Chunk
+p85
+(dp86
+g6
+Vwell this is nice
+p87
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p88
+(dp89
+g14
+F3.245
+sg15
+F6.2
+sbsg16
+Vwell I think she knows life
+p90
+sg18
+(dp91
+VDuration
+p92
+I16200000
+sVRecognitionStatus
+p93
+VSuccess
+p94
+sVNBest
+p95
+(lp96
+(dp97
+VITN
+p98
+g90
+sVConfidence
+p99
+F0.662139
+sVLexical
+p100
+Vwell i think she knows life
+p101
+sVMaskedITN
+p102
+Vwell I think she knows life
+p103
+sVDisplay
+p104
+VWell I think she knows life.
+p105
+sa(dp106
+VITN
+p107
+Vwell I think she does life
+p108
+sVConfidence
+p109
+F0.6121709
+sVLexical
+p110
+Vwell i think she does life
+p111
+sVMaskedITN
+p112
+Vwell I think she does life
+p113
+sVDisplay
+p114
+VWell I think she does life.
+p115
+sa(dp116
+VITN
+p117
+Vwell it's Joe's life
+p118
+sVConfidence
+p119
+F0.4626476
+sVLexical
+p120
+Vwell it's joe 's life
+p121
+sVMaskedITN
+p122
+Vwell it's Joe's life
+p123
+sVDisplay
+p124
+VWell it's Joe's life.
+p125
+sa(dp126
+VITN
+p127
+Vbut I think she knows life
+p128
+sVConfidence
+p129
+F0.4626476
+sVLexical
+p130
+Vbut i think she knows life
+p131
+sVMaskedITN
+p132
+Vbut I think she knows life
+p133
+sVDisplay
+p134
+VBut I think she knows life.
+p135
+sa(dp136
+VITN
+p137
+Vwell it's she knows life
+p138
+sVConfidence
+p139
+F0.4626476
+sVLexical
+p140
+Vwell it's she knows life
+p141
+sVMaskedITN
+p142
+Vwell it's she knows life
+p143
+sVDisplay
+p144
+VWell it's she knows life.
+p145
+sasVOffset
+p146
+I13000000
+ssg75
+I2
+sg76
+(lp147
+(F4.46
+F4.6
+Vwell
+p148
+tp149
+a(F4.6
+F4.82
+Vthis
+p150
+tp151
+a(F5.53
+F5.84
+Vis
+p152
+tp153
+a(F5.84
+F6.2
+Vnice
+p154
+tp155
+asba(imodel
+Chunk
+p156
+(dp157
+g6
+g10
+sg8
+I01
+sg9
+g10
+sg11
+(imodel
+Interval
+p158
+(dp159
+g14
+F6.2
+sg15
+F8.35
+sbsg16
+g10
+sg18
+(dp160
+VDuration
+p161
+I0
+sVRecognitionStatus
+p162
+VInitialSilenceTimeout
+p163
+sVOffset
+p164
+I21000000
+ssg75
+I1
+sg76
+(lp165
+sba(imodel
+Chunk
+p166
+(dp167
+g6
+VSimon says that sometimes he says Jews live the runic us
+p168
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p169
+(dp170
+g14
+F8.35
+sg15
+F13.07
+sbsg16
+VSimon Says it sometimes he says choose life Veronica
+p171
+sg18
+(dp172
+VDuration
+p173
+I46500000
+sVRecognitionStatus
+p174
+VSuccess
+p175
+sVNBest
+p176
+(lp177
+(dp178
+VITN
+p179
+g171
+sVConfidence
+p180
+F0.8144852
+sVLexical
+p181
+Vsimon says it sometimes he says choose life veronica
+p182
+sVMaskedITN
+p183
+VSimon Says it sometimes he says choose life Veronica
+p184
+sVDisplay
+p185
+VSimon Says it sometimes he says choose life Veronica.
+p186
+sa(dp187
+VITN
+p188
+VSimon Says it's sometimes he says choose life Veronica
+p189
+sVConfidence
+p190
+F0.8131827
+sVLexical
+p191
+Vsimon says it's sometimes he says choose life veronica
+p192
+sVMaskedITN
+p193
+VSimon Says it's sometimes he says choose life Veronica
+p194
+sVDisplay
+p195
+VSimon Says it's sometimes he says choose life Veronica.
+p196
+sa(dp197
+VITN
+p198
+VSimon Says is sometimes he says choose life Veronica
+p199
+sVConfidence
+p200
+F0.811105549
+sVLexical
+p201
+Vsimon says is sometimes he says choose life veronica
+p202
+sVMaskedITN
+p203
+VSimon Says is sometimes he says choose life Veronica
+p204
+sVDisplay
+p205
+VSimon Says is sometimes he says choose life Veronica.
+p206
+sa(dp207
+VITN
+p208
+VSimon Says its sometimes he says choose life Veronica
+p209
+sVConfidence
+p210
+F0.811105549
+sVLexical
+p211
+Vsimon says its sometimes he says choose life veronica
+p212
+sVMaskedITN
+p213
+VSimon Says its sometimes he says choose life Veronica
+p214
+sVDisplay
+p215
+VSimon Says its sometimes he says choose life Veronica.
+p216
+sa(dp217
+VITN
+p218
+VSimon Says it sometimes he says Jews live berenika
+p219
+sVConfidence
+p220
+F0.6626935
+sVLexical
+p221
+Vsimon says it sometimes he says jews live berenika
+p222
+sVMaskedITN
+p223
+VSimon Says it sometimes he says Jews live berenika
+p224
+sVDisplay
+p225
+VSimon Says it sometimes he says Jews live berenika.
+p226
+sasVOffset
+p227
+I400000
+ssg75
+I3
+sg76
+(lp228
+(F8.35
+F8.74
+VSimon
+p229
+tp230
+a(F8.74
+F9.09
+Vsays
+p231
+tp232
+a(F9.09
+F9.24
+Vthat
+p233
+tp234
+a(F9.24
+F9.93
+Vsometimes
+p235
+tp236
+a(F10.47
+F10.62
+Vhe
+p237
+tp238
+a(F10.62
+F11.06
+Vsays
+p239
+tp240
+a(F11.47
+F11.94
+VJews
+p241
+tp242
+a(F11.94
+F12.27
+Vlive
+p243
+tp244
+a(F12.3
+F12.47
+Vthe
+p245
+tp246
+a(F12.47
+F12.82
+Vrunic
+p247
+tp248
+a(F12.82
+F13.07
+Vus
+p249
+tp250
+asba(imodel
+Chunk
+p251
+(dp252
+g6
+g10
+sg8
+I01
+sg9
+g10
+sg11
+(imodel
+Interval
+p253
+(dp254
+g14
+F13.07
+sg15
+F17.22
+sbsg16
+Vsusla
+p255
+sg18
+(dp256
+VDuration
+p257
+I6900000
+sVRecognitionStatus
+p258
+VSuccess
+p259
+sVNBest
+p260
+(lp261
+(dp262
+VITN
+p263
+g255
+sVConfidence
+p264
+F0.303380668
+sVLexical
+p265
+Vsusla
+p266
+sVMaskedITN
+p267
+Vsusla
+p268
+sVDisplay
+p269
+VSusla.
+p270
+sa(dp271
+VITN
+p272
+Vsuzlon
+p273
+sVConfidence
+p274
+F0.224083245
+sVLexical
+p275
+Vsuzlon
+p276
+sVMaskedITN
+p277
+Vsuzlon
+p278
+sVDisplay
+p279
+VSuzlon.
+p280
+sa(dp281
+VITN
+p282
+Vsislo
+p283
+sVConfidence
+p284
+F0.2018347
+sVLexical
+p285
+Vsislo
+p286
+sVMaskedITN
+p287
+Vsislo
+p288
+sVDisplay
+p289
+VSislo.
+p290
+sasVOffset
+p291
+I34200000
+ssg75
+I3
+sg76
+(lp292
+sba(imodel
+Chunk
+p293
+(dp294
+g6
+Vchoose life
+p295
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p296
+(dp297
+g14
+F17.22
+sg15
+F18.755000000000003
+sbsg16
+Vchoose life
+p298
+sg18
+(dp299
+VDuration
+p300
+I9600000
+sVRecognitionStatus
+p301
+VSuccess
+p302
+sVNBest
+p303
+(lp304
+(dp305
+VITN
+p306
+g298
+sVConfidence
+p307
+F0.7255925
+sVLexical
+p308
+Vchoose life
+p309
+sVMaskedITN
+p310
+Vchoose life
+p311
+sVDisplay
+p312
+VChoose life.
+p313
+sa(dp314
+VITN
+p315
+Vshe's life
+p316
+sVConfidence
+p317
+F0.6564601
+sVLexical
+p318
+Vshe's life
+p319
+sVMaskedITN
+p320
+Vshe's life
+p321
+sVDisplay
+p322
+VShe's life.
+p323
+sa(dp324
+VITN
+p325
+Vhis life
+p326
+sVConfidence
+p327
+F0.617154241
+sVLexical
+p328
+Vhis life
+p329
+sVMaskedITN
+p330
+Vhis life
+p331
+sVDisplay
+p332
+VHis life.
+p333
+sa(dp334
+VITN
+p335
+Vshe is life
+p336
+sVConfidence
+p337
+F0.617154241
+sVLexical
+p338
+Vshe is life
+p339
+sVMaskedITN
+p340
+Vshe is life
+p341
+sVDisplay
+p342
+VShe is life.
+p343
+sa(dp344
+VITN
+p345
+Vshoes life
+p346
+sVConfidence
+p347
+F0.616133869
+sVLexical
+p348
+Vshoes life
+p349
+sVMaskedITN
+p350
+Vshoes life
+p351
+sVDisplay
+p352
+VShoes life.
+p353
+sasVOffset
+p354
+I400000
+ssg75
+I4
+sg76
+(lp355
+(F17.22
+F17.54
+Vchoose
+p356
+tp357
+a(F17.54
+F17.89
+Vlife
+p358
+tp359
+asba(imodel
+Chunk
+p360
+(dp361
+g6
+Va well meaning slogan from the nineteen eighties anti drug campaign
+p362
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p363
+(dp364
+g14
+F18.755000000000003
+sg15
+F23.185
+sbsg16
+Vchoose life was a well meaning slogan from the 1980s anti drug campaign
+p365
+sg18
+(dp366
+VDuration
+p367
+I40400000
+sVRecognitionStatus
+p368
+VSuccess
+p369
+sVNBest
+p370
+(lp371
+(dp372
+VITN
+p373
+g365
+sVConfidence
+p374
+F0.857564449
+sVLexical
+p375
+Vchoose life was a well meaning slogan from the nineteen eighties anti drug campaign
+p376
+sVMaskedITN
+p377
+Vchoose life was a well meaning slogan from the 1980s anti drug campaign
+p378
+sVDisplay
+p379
+VChoose life was a well meaning slogan from the 1980s anti drug campaign.
+p380
+sa(dp381
+VITN
+p382
+Vchoose life was a well meaning slogan from a 1980s anti drug campaign
+p383
+sVConfidence
+p384
+F0.857564449
+sVLexical
+p385
+Vchoose life was a well meaning slogan from a nineteen eighties anti drug campaign
+p386
+sVMaskedITN
+p387
+Vchoose life was a well meaning slogan from a 1980s anti drug campaign
+p388
+sVDisplay
+p389
+VChoose life was a well meaning slogan from a 1980s anti drug campaign.
+p390
+sa(dp391
+VITN
+p392
+Vchoose life was a well meaning slogan from the 1980s anti drug campaigns
+p393
+sVConfidence
+p394
+F0.8273506
+sVLexical
+p395
+Vchoose life was a well meaning slogan from the nineteen eighties anti drug campaigns
+p396
+sVMaskedITN
+p397
+Vchoose life was a well meaning slogan from the 1980s anti drug campaigns
+p398
+sVDisplay
+p399
+VChoose life was a well meaning slogan from the 1980s anti drug campaigns.
+p400
+sa(dp401
+VITN
+p402
+Vchoose life was a well meeting slogan from the 1980s anti drug campaign
+p403
+sVConfidence
+p404
+F0.8273506
+sVLexical
+p405
+Vchoose life was a well meeting slogan from the nineteen eighties anti drug campaign
+p406
+sVMaskedITN
+p407
+Vchoose life was a well meeting slogan from the 1980s anti drug campaign
+p408
+sVDisplay
+p409
+VChoose life was a well meeting slogan from the 1980s anti drug campaign.
+p410
+sa(dp411
+VITN
+p412
+Vchoose life was a well meaning slogan from a 1980s anti drug campaigns
+p413
+sVConfidence
+p414
+F0.8273506
+sVLexical
+p415
+Vchoose life was a well meaning slogan from a nineteen eighties anti drug campaigns
+p416
+sVMaskedITN
+p417
+Vchoose life was a well meaning slogan from a 1980s anti drug campaigns
+p418
+sVDisplay
+p419
+VChoose life was a well meaning slogan from a 1980s anti drug campaigns.
+p420
+sasVOffset
+p421
+I2000000
+ssg75
+I5
+sg76
+(lp422
+(F19.62
+F19.65
+Va
+p423
+tp424
+a(F19.65
+F19.89
+Vwell
+p425
+tp426
+a(F19.89
+F20.12
+Vmeaning
+p427
+tp428
+a(F20.12
+F20.52
+Vslogan
+p429
+tp430
+a(F20.52
+F20.73
+Vfrom
+p431
+tp432
+a(F20.73
+F20.81
+Vthe
+p433
+tp434
+a(F20.81
+F21.26
+Vnineteen
+p435
+tp436
+a(F21.26
+F21.62
+Veighties
+p437
+tp438
+a(F21.62
+F21.9
+Vanti
+p439
+tp440
+a(F21.9
+F22.19
+Vdrug
+p441
+tp442
+a(F22.19
+F22.65
+Vcampaign
+p443
+tp444
+asba(imodel
+Chunk
+p445
+(dp446
+g6
+Vwe have things to it so I may say for example shoes
+p447
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p448
+(dp449
+g14
+F23.185
+sg15
+F27.61
+sbsg16
+Vand we just add things to it so I might say for example shoes
+p450
+sg18
+(dp451
+VDuration
+p452
+I38500000
+sVRecognitionStatus
+p453
+VSuccess
+p454
+sVNBest
+p455
+(lp456
+(dp457
+VITN
+p458
+g450
+sVConfidence
+p459
+F0.849176
+sVLexical
+p460
+Vand we just add things to it so i might say for example shoes
+p461
+sVMaskedITN
+p462
+Vand we just add things to it so I might say for example shoes
+p463
+sVDisplay
+p464
+VAnd we just add things to it so I might say for example shoes.
+p465
+sa(dp466
+VITN
+p467
+Vand we have to add things to it so I might say for example shoes
+p468
+sVConfidence
+p469
+F0.834166944
+sVLexical
+p470
+Vand we have to add things to it so i might say for example shoes
+p471
+sVMaskedITN
+p472
+Vand we have to add things to it so I might say for example shoes
+p473
+sVDisplay
+p474
+VAnd we have to add things to it so I might say for example shoes.
+p475
+sa(dp476
+VITN
+p477
+Vand we had to add things to it so I might say for example shoes
+p478
+sVConfidence
+p479
+F0.834166944
+sVLexical
+p480
+Vand we had to add things to it so i might say for example shoes
+p481
+sVMaskedITN
+p482
+Vand we had to add things to it so I might say for example shoes
+p483
+sVDisplay
+p484
+VAnd we had to add things to it so I might say for example shoes.
+p485
+sa(dp486
+VITN
+p487
+Vand we used to add things to it so I might say for example shoes
+p488
+sVConfidence
+p489
+F0.834166944
+sVLexical
+p490
+Vand we used to add things to it so i might say for example shoes
+p491
+sVMaskedITN
+p492
+Vand we used to add things to it so I might say for example shoes
+p493
+sVDisplay
+p494
+VAnd we used to add things to it so I might say for example shoes.
+p495
+sa(dp496
+VITN
+p497
+Vand we just add things to it so I'm not say for example shoes
+p498
+sVConfidence
+p499
+F0.82919234
+sVLexical
+p500
+Vand we just add things to it so i'm not say for example shoes
+p501
+sVMaskedITN
+p502
+Vand we just add things to it so I'm not say for example shoes
+p503
+sVDisplay
+p504
+VAnd we just add things to it so I'm not say for example shoes.
+p505
+sasVOffset
+p506
+I5400000
+ssg75
+I6
+sg76
+(lp507
+(F23.72
+F23.85
+Vwe
+p508
+tp509
+a(F23.85
+F23.94
+Vhave
+p510
+tp511
+a(F24.32
+F24.6
+Vthings
+p512
+tp513
+a(F24.7
+F24.84
+Vto
+p514
+tp515
+a(F24.84
+F25.1
+Vit
+p516
+tp517
+a(F25.65
+F25.96
+Vso
+p518
+tp519
+a(F25.96
+F26.06
+VI
+p520
+tp521
+a(F26.06
+F26.19
+Vmay
+p522
+tp523
+a(F26.19
+F26.36
+Vsay
+p524
+tp525
+a(F26.36
+F26.48
+Vfor
+p526
+tp527
+a(F26.48
+F26.99
+Vexample
+p528
+tp529
+a(F27.07
+F27.61
+Vshoes
+p530
+tp531
+asba(imodel
+Chunk
+p532
+(dp533
+g6
+g10
+sg8
+I01
+sg9
+g10
+sg11
+(imodel
+Interval
+p534
+(dp535
+g14
+F27.61
+sg15
+F30.33
+sbsg16
+Vwow
+p536
+sg18
+(dp537
+VDuration
+p538
+I7600000
+sVRecognitionStatus
+p539
+VSuccess
+p540
+sVNBest
+p541
+(lp542
+(dp543
+VITN
+p544
+g536
+sVConfidence
+p545
+F0.724661
+sVLexical
+p546
+Vwow
+p547
+sVMaskedITN
+p548
+Vwow
+p549
+sVDisplay
+p550
+VWow.
+p551
+sa(dp552
+VITN
+p553
+Vwow wow
+p554
+sVConfidence
+p555
+F0.385341138
+sVLexical
+p556
+Vwow wow
+p557
+sVMaskedITN
+p558
+Vwow wow
+p559
+sVDisplay
+p560
+VWow wow.
+p561
+sa(dp562
+VITN
+p563
+Voh wow
+p564
+sVConfidence
+p565
+F0.385341138
+sVLexical
+p566
+Voh wow
+p567
+sVMaskedITN
+p568
+Voh wow
+p569
+sVDisplay
+p570
+VOh wow.
+p571
+sa(dp572
+VITN
+p573
+Vwell
+p574
+sVConfidence
+p575
+F0.211625159
+sVLexical
+p576
+Vwell
+p577
+sVMaskedITN
+p578
+Vwell
+p579
+sVDisplay
+p580
+VWell.
+p581
+sa(dp582
+VITN
+p583
+Vwow that
+p584
+sVConfidence
+p585
+F0.211625159
+sVLexical
+p586
+Vwow that
+p587
+sVMaskedITN
+p588
+Vwow that
+p589
+sVDisplay
+p590
+VWow that.
+p591
+sasVOffset
+p592
+I19200000
+ssg75
+I7
+sg76
+(lp593
+sba(imodel
+Chunk
+p594
+(dp595
+g6
+Vdesign a lonely city in the vain hope of kicking some life back into a dead
+p596
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p597
+(dp598
+g14
+F30.33
+sg15
+F34.965
+sbsg16
+Vbut designer lingerie in the vain hope of kicking some life back into a dead
+p599
+sg18
+(dp600
+VDuration
+p601
+I45700000
+sVRecognitionStatus
+p602
+VSuccess
+p603
+sVNBest
+p604
+(lp605
+(dp606
+VITN
+p607
+g599
+sVConfidence
+p608
+F0.78663975
+sVLexical
+p609
+Vbut designer lingerie in the vain hope of kicking some life back into a dead
+p610
+sVMaskedITN
+p611
+Vbut designer lingerie in the vain hope of kicking some life back into a dead
+p612
+sVDisplay
+p613
+VBut designer lingerie in the vain hope of kicking some life back into a dead.
+p614
+sa(dp615
+VITN
+p616
+Vbut design a lingerie in the vain hope of kicking some life back into a dead
+p617
+sVConfidence
+p618
+F0.7835765
+sVLexical
+p619
+Vbut design a lingerie in the vain hope of kicking some life back into a dead
+p620
+sVMaskedITN
+p621
+Vbut design a lingerie in the vain hope of kicking some life back into a dead
+p622
+sVDisplay
+p623
+VBut design a lingerie in the vain hope of kicking some life back into a dead.
+p624
+sa(dp625
+VITN
+p626
+Vbut designer lingerie in a vain hope of kicking some life back into a dead
+p627
+sVConfidence
+p628
+F0.7835765
+sVLexical
+p629
+Vbut designer lingerie in a vain hope of kicking some life back into a dead
+p630
+sVMaskedITN
+p631
+Vbut designer lingerie in a vain hope of kicking some life back into a dead
+p632
+sVDisplay
+p633
+VBut designer lingerie in a vain hope of kicking some life back into a dead.
+p634
+sa(dp635
+VITN
+p636
+Vbut design a lingerie in a vain hope of kicking some life back into a dead
+p637
+sVConfidence
+p638
+F0.7835765
+sVLexical
+p639
+Vbut design a lingerie in a vain hope of kicking some life back into a dead
+p640
+sVMaskedITN
+p641
+Vbut design a lingerie in a vain hope of kicking some life back into a dead
+p642
+sVDisplay
+p643
+VBut design a lingerie in a vain hope of kicking some life back into a dead.
+p644
+sa(dp645
+VITN
+p646
+Vwhat designer lingerie in the vain hope of kicking some life back into a dead
+p647
+sVConfidence
+p648
+F0.7814117
+sVLexical
+p649
+Vwhat designer lingerie in the vain hope of kicking some life back into a dead
+p650
+sVMaskedITN
+p651
+Vwhat designer lingerie in the vain hope of kicking some life back into a dead
+p652
+sVDisplay
+p653
+VWhat designer lingerie in the vain hope of kicking some life back into a dead?
+p654
+sasVOffset
+p655
+I300000
+ssg75
+I7
+sg76
+(lp656
+(F30.33
+F30.7
+Vdesign
+p657
+tp658
+a(F30.7
+F30.79
+Va
+p659
+tp660
+a(F30.79
+F31.06
+Vlonely
+p661
+tp662
+a(F31.06
+F31.5
+Vcity
+p663
+tp664
+a(F31.85
+F31.97
+Vin
+p665
+tp666
+a(F31.97
+F32.04
+Vthe
+p667
+tp668
+a(F32.04
+F32.27
+Vvain
+p669
+tp670
+a(F32.27
+F32.54
+Vhope
+p671
+tp672
+a(F32.54
+F32.72
+Vof
+p673
+tp674
+a(F32.75
+F33.1
+Vkicking
+p675
+tp676
+a(F33.1
+F33.3
+Vsome
+p677
+tp678
+a(F33.3
+F33.73
+Vlife
+p679
+tp680
+a(F33.78
+F34.1
+Vback
+p681
+tp682
+a(F34.1
+F34.37
+Vinto
+p683
+tp684
+a(F34.37
+F34.46
+Va
+p685
+tp686
+a(F34.46
+F34.95
+Vdead
+p687
+tp688
+asba(imodel
+Chunk
+p689
+(dp690
+g6
+Vrelationship
+p691
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p692
+(dp693
+g14
+F34.965
+sg15
+F36.480000000000004
+sbsg16
+Vrelationship
+p694
+sg18
+(dp695
+VDuration
+p696
+I9900000
+sVRecognitionStatus
+p697
+VSuccess
+p698
+sVNBest
+p699
+(lp700
+(dp701
+VITN
+p702
+g694
+sVConfidence
+p703
+F0.878100038
+sVLexical
+p704
+Vrelationship
+p705
+sVMaskedITN
+p706
+Vrelationship
+p707
+sVDisplay
+p708
+VRelationship.
+p709
+sa(dp710
+VITN
+p711
+Vrelationships
+p712
+sVConfidence
+p713
+F0.6768973
+sVLexical
+p714
+Vrelationships
+p715
+sVMaskedITN
+p716
+Vrelationships
+p717
+sVDisplay
+p718
+VRelationships.
+p719
+sa(dp720
+VITN
+p721
+Vrelation ship
+p722
+sVConfidence
+p723
+F0.6768973
+sVLexical
+p724
+Vrelation ship
+p725
+sVMaskedITN
+p726
+Vrelation ship
+p727
+sVDisplay
+p728
+VRelation ship.
+p729
+sasVOffset
+p730
+I600000
+ssg75
+I8
+sg76
+(lp731
+(F34.98
+F35.68
+g691
+tp732
+asba(imodel
+Chunk
+p733
+(dp734
+g6
+Vshoes handbags
+p735
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p736
+(dp737
+g14
+F36.480000000000004
+sg15
+F38.625
+sbsg16
+VQ's handbags
+p738
+sg18
+(dp739
+VDuration
+p740
+I12400000
+sVRecognitionStatus
+p741
+VSuccess
+p742
+sVNBest
+p743
+(lp744
+(dp745
+VITN
+p746
+g738
+sVConfidence
+p747
+F0.625637352
+sVLexical
+p748
+VQ 's handbags
+p749
+sVMaskedITN
+p750
+VQ's handbags
+p751
+sVDisplay
+p752
+VQ's handbags.
+p753
+sa(dp754
+VITN
+p755
+VHughes handbags
+p756
+sVConfidence
+p757
+F0.537811637
+sVLexical
+p758
+Vhughes handbags
+p759
+sVMaskedITN
+p760
+VHughes handbags
+p761
+sVDisplay
+p762
+VHughes handbags.
+p763
+sa(dp764
+VITN
+p765
+Vcueshe and banks
+p766
+sVConfidence
+p767
+F0.5029943
+sVLexical
+p768
+Vcueshe and banks
+p769
+sVMaskedITN
+p770
+Vcueshe and banks
+p771
+sVDisplay
+p772
+VCueshe and banks.
+p773
+sa(dp774
+VITN
+p775
+Vcues handbags
+p776
+sVConfidence
+p777
+F0.5029943
+sVLexical
+p778
+Vcues handbags
+p779
+sVMaskedITN
+p780
+Vcues handbags
+p781
+sVDisplay
+p782
+VCues handbags.
+p783
+sa(dp784
+VITN
+p785
+Vqueues handbags
+p786
+sVConfidence
+p787
+F0.5029943
+sVLexical
+p788
+Vqueues handbags
+p789
+sVMaskedITN
+p790
+Vqueues handbags
+p791
+sVDisplay
+p792
+VQueues handbags.
+p793
+sasVOffset
+p794
+I8700000
+ssg75
+I9
+sg76
+(lp795
+(F37.28
+F37.61
+Vshoes
+p796
+tp797
+a(F37.61
+F38.54
+Vhandbags
+p798
+tp799
+asba(imodel
+Chunk
+p800
+(dp801
+g6
+Vshoes high heeled shoes
+p802
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p803
+(dp804
+g14
+F38.625
+sg15
+F40.285
+sbsg16
+Vshoes high heel shoes
+p805
+sg18
+(dp806
+VDuration
+p807
+I14800000
+sVRecognitionStatus
+p808
+VSuccess
+p809
+sVNBest
+p810
+(lp811
+(dp812
+VITN
+p813
+g805
+sVConfidence
+p814
+F0.8451105
+sVLexical
+p815
+Vshoes high heel shoes
+p816
+sVMaskedITN
+p817
+Vshoes high heel shoes
+p818
+sVDisplay
+p819
+VShoes high heel shoes.
+p820
+sa(dp821
+VITN
+p822
+Vshoes high heeled shoes
+p823
+sVConfidence
+p824
+F0.8060426
+sVLexical
+p825
+Vshoes high heeled shoes
+p826
+sVMaskedITN
+p827
+Vshoes high heeled shoes
+p828
+sVDisplay
+p829
+VShoes high heeled shoes.
+p830
+sa(dp831
+VITN
+p832
+Vshe was high heel shoes
+p833
+sVConfidence
+p834
+F0.725107
+sVLexical
+p835
+Vshe was high heel shoes
+p836
+sVMaskedITN
+p837
+Vshe was high heel shoes
+p838
+sVDisplay
+p839
+VShe was high heel shoes.
+p840
+sa(dp841
+VITN
+p842
+Vshe used high heel shoes
+p843
+sVConfidence
+p844
+F0.7192729
+sVLexical
+p845
+Vshe used high heel shoes
+p846
+sVMaskedITN
+p847
+Vshe used high heel shoes
+p848
+sVDisplay
+p849
+VShe used high heel shoes.
+p850
+sa(dp851
+VITN
+p852
+Vshoes high heels shoes
+p853
+sVConfidence
+p854
+F0.7192729
+sVLexical
+p855
+Vshoes high heels shoes
+p856
+sVMaskedITN
+p857
+Vshoes high heels shoes
+p858
+sVDisplay
+p859
+VShoes high heels shoes.
+p860
+sasVOffset
+p861
+I1400000
+ssg75
+I10
+sg76
+(lp862
+(F38.71
+F39.17
+Vshoes
+p863
+tp864
+a(F39.17
+F39.37
+Vhigh
+p865
+tp866
+a(F39.37
+F39.65
+Vheeled
+p867
+tp868
+a(F39.65
+F40.24
+Vshoes
+p869
+tp870
+asba(imodel
+Chunk
+p871
+(dp872
+g6
+Vcashmere and silk to make yourself feel what passes for happy
+p873
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p874
+(dp875
+g14
+F40.285
+sg15
+F44.3
+sbsg16
+Vcashmere and silk to make yourself feel what passes for happy
+p876
+sg18
+(dp877
+VDuration
+p878
+I40100000
+sVRecognitionStatus
+p879
+VSuccess
+p880
+sVNBest
+p881
+(lp882
+(dp883
+VITN
+p884
+g876
+sVConfidence
+p885
+F0.8780999
+sVLexical
+p886
+Vcashmere and silk to make yourself feel what passes for happy
+p887
+sVMaskedITN
+p888
+Vcashmere and silk to make yourself feel what passes for happy
+p889
+sVDisplay
+p890
+VCashmere and silk to make yourself feel what passes for happy.
+p891
+sa(dp892
+VITN
+p893
+Vcashmere and silk to make yourself feel what passes for happy hour
+p894
+sVConfidence
+p895
+F0.853035569
+sVLexical
+p896
+Vcashmere and silk to make yourself feel what passes for happy hour
+p897
+sVMaskedITN
+p898
+Vcashmere and silk to make yourself feel what passes for happy hour
+p899
+sVDisplay
+p900
+VCashmere and silk to make yourself feel what passes for happy hour.
+p901
+sa(dp902
+VITN
+p903
+Vcashmere and silk to make yourself feel what passes for a happy
+p904
+sVConfidence
+p905
+F0.853035569
+sVLexical
+p906
+Vcashmere and silk to make yourself feel what passes for a happy
+p907
+sVMaskedITN
+p908
+Vcashmere and silk to make yourself feel what passes for a happy
+p909
+sVDisplay
+p910
+VCashmere and silk to make yourself feel what passes for a happy.
+p911
+sa(dp912
+VITN
+p913
+VKashmir and silk to make yourself feel what passes for happy
+p914
+sVConfidence
+p915
+F0.81037724
+sVLexical
+p916
+Vkashmir and silk to make yourself feel what passes for happy
+p917
+sVMaskedITN
+p918
+VKashmir and silk to make yourself feel what passes for happy
+p919
+sVDisplay
+p920
+VKashmir and silk to make yourself feel what passes for happy.
+p921
+sa(dp922
+VITN
+p923
+Vcashmere and silk to make yourself feel walk passes for happy
+p924
+sVConfidence
+p925
+F0.81037724
+sVLexical
+p926
+Vcashmere and silk to make yourself feel walk passes for happy
+p927
+sVMaskedITN
+p928
+Vcashmere and silk to make yourself feel walk passes for happy
+p929
+sVDisplay
+p930
+VCashmere and silk to make yourself feel walk passes for happy.
+p931
+sasVOffset
+p932
+I600000
+ssg75
+I11
+sg76
+(lp933
+(F40.33
+F40.98
+Vcashmere
+p934
+tp935
+a(F40.98
+F41.13
+Vand
+p936
+tp937
+a(F41.13
+F41.6
+Vsilk
+p938
+tp939
+a(F41.63
+F41.74
+Vto
+p940
+tp941
+a(F41.74
+F41.91
+Vmake
+p942
+tp943
+a(F41.91
+F42.25
+Vyourself
+p944
+tp945
+a(F42.25
+F42.45
+Vfeel
+p946
+tp947
+a(F42.45
+F42.66
+Vwhat
+p948
+tp949
+a(F42.66
+F43.12
+Vpasses
+p950
+tp951
+a(F43.12
+F43.29
+Vfor
+p952
+tp953
+a(F43.29
+F43.79
+Vhappy
+p954
+tp955
+asba(imodel
+Chunk
+p956
+(dp957
+g6
+Vchoose an iPhone made in China by a woman who jumped out of a window
+p958
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p959
+(dp960
+g14
+F44.3
+sg15
+F48.230000000000004
+sbsg16
+Vchoose an iPhone made in China by a woman who jumped out of a window
+p961
+sg18
+(dp962
+VDuration
+p963
+I33000000
+sVRecognitionStatus
+p964
+VSuccess
+p965
+sVNBest
+p966
+(lp967
+(dp968
+VITN
+p969
+g961
+sVConfidence
+p970
+F0.830668032
+sVLexical
+p971
+Vchoose an iphone made in china by a woman who jumped out of a window
+p972
+sVMaskedITN
+p973
+Vchoose an iPhone made in China by a woman who jumped out of a window
+p974
+sVDisplay
+p975
+VChoose an iPhone made in China by a woman who jumped out of a window.
+p976
+sa(dp977
+VITN
+p978
+Vshe was an iPhone made in China by a woman who jumped out of a window
+p979
+sVConfidence
+p980
+F0.830668032
+sVLexical
+p981
+Vshe was an iphone made in china by a woman who jumped out of a window
+p982
+sVMaskedITN
+p983
+Vshe was an iPhone made in China by a woman who jumped out of a window
+p984
+sVDisplay
+p985
+VShe was an iPhone made in China by a woman who jumped out of a window.
+p986
+sa(dp987
+VITN
+p988
+Vchoose an iPhone made in China by a woman who jumped out of the window
+p989
+sVConfidence
+p990
+F0.81858176
+sVLexical
+p991
+Vchoose an iphone made in china by a woman who jumped out of the window
+p992
+sVMaskedITN
+p993
+Vchoose an iPhone made in China by a woman who jumped out of the window
+p994
+sVDisplay
+p995
+VChoose an iPhone made in China by a woman who jumped out of the window.
+p996
+sa(dp997
+VITN
+p998
+Vshe is an iPhone made in China by a woman who jumped out of a window
+p999
+sVConfidence
+p1000
+F0.81858176
+sVLexical
+p1001
+Vshe is an iphone made in china by a woman who jumped out of a window
+p1002
+sVMaskedITN
+p1003
+Vshe is an iPhone made in China by a woman who jumped out of a window
+p1004
+sVDisplay
+p1005
+VShe is an iPhone made in China by a woman who jumped out of a window.
+p1006
+sa(dp1007
+VITN
+p1008
+Vshe's an iPhone made in China by a woman who jumped out of a window
+p1009
+sVConfidence
+p1010
+F0.81858176
+sVLexical
+p1011
+Vshe's an iphone made in china by a woman who jumped out of a window
+p1012
+sVMaskedITN
+p1013
+Vshe's an iPhone made in China by a woman who jumped out of a window
+p1014
+sVDisplay
+p1015
+VShe's an iPhone made in China by a woman who jumped out of a window.
+p1016
+sasVOffset
+p1017
+I6000000
+ssg75
+I12
+sg76
+(lp1018
+(F44.81
+F45.09
+Vchoose
+p1019
+tp1020
+a(F45.09
+F45.2
+Van
+p1021
+tp1022
+a(F45.2
+F45.69
+ViPhone
+p1023
+tp1024
+a(F45.69
+F45.94
+Vmade
+p1025
+tp1026
+a(F45.94
+F46.03
+Vin
+p1027
+tp1028
+a(F46.03
+F46.37
+VChina
+p1029
+tp1030
+a(F46.37
+F46.52
+Vby
+p1031
+tp1032
+a(F46.52
+F46.59
+Va
+p1033
+tp1034
+a(F46.59
+F46.87
+Vwoman
+p1035
+tp1036
+a(F46.87
+F47.02
+Vwho
+p1037
+tp1038
+a(F47.02
+F47.4
+Vjumped
+p1039
+tp1040
+a(F47.4
+F47.5
+Vout
+p1041
+tp1042
+a(F47.5
+F47.61
+Vof
+p1043
+tp1044
+a(F47.61
+F47.68
+Va
+p1045
+tp1046
+a(F47.68
+F48.1
+Vwindow
+p1047
+tp1048
+asba(imodel
+Chunk
+p1049
+(dp1050
+g6
+Vand stick in the pocket of your jacket fresh from a south Asian file drop
+p1051
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p1052
+(dp1053
+g14
+F48.230000000000004
+sg15
+F52.935
+sbsg16
+Vand stick in the pocket of your jacket fresh from a South Asian firetrap
+p1054
+sg18
+(dp1055
+VDuration
+p1056
+I39100000
+sVRecognitionStatus
+p1057
+VSuccess
+p1058
+sVNBest
+p1059
+(lp1060
+(dp1061
+VITN
+p1062
+g1054
+sVConfidence
+p1063
+F0.86089927
+sVLexical
+p1064
+Vand stick in the pocket of your jacket fresh from a south asian firetrap
+p1065
+sVMaskedITN
+p1066
+Vand stick in the pocket of your jacket fresh from a South Asian firetrap
+p1067
+sVDisplay
+p1068
+VAnd stick in the pocket of your jacket fresh from a South Asian firetrap.
+p1069
+sa(dp1070
+VITN
+p1071
+Vand stick it in the pocket of your jacket fresh from a South Asian firetrap
+p1072
+sVConfidence
+p1073
+F0.8526051
+sVLexical
+p1074
+Vand stick it in the pocket of your jacket fresh from a south asian firetrap
+p1075
+sVMaskedITN
+p1076
+Vand stick it in the pocket of your jacket fresh from a South Asian firetrap
+p1077
+sVDisplay
+p1078
+VAnd stick it in the pocket of your jacket fresh from a South Asian firetrap.
+p1079
+sa(dp1080
+VITN
+p1081
+Vinstec in the pocket of your jacket fresh from a South Asian firetrap
+p1082
+sVConfidence
+p1083
+F0.8288199
+sVLexical
+p1084
+Vinstec in the pocket of your jacket fresh from a south asian firetrap
+p1085
+sVMaskedITN
+p1086
+Vinstec in the pocket of your jacket fresh from a South Asian firetrap
+p1087
+sVDisplay
+p1088
+VInstec in the pocket of your jacket fresh from a South Asian firetrap.
+p1089
+sa(dp1090
+VITN
+p1091
+Vin stick in the pocket of your jacket fresh from a South Asian firetrap
+p1092
+sVConfidence
+p1093
+F0.8288199
+sVLexical
+p1094
+Vin stick in the pocket of your jacket fresh from a south asian firetrap
+p1095
+sVMaskedITN
+p1096
+Vin stick in the pocket of your jacket fresh from a South Asian firetrap
+p1097
+sVDisplay
+p1098
+VIn stick in the pocket of your jacket fresh from a South Asian firetrap.
+p1099
+sa(dp1100
+VITN
+p1101
+Vcan stick in the pocket of your jacket fresh from a South Asian firetrap
+p1102
+sVConfidence
+p1103
+F0.8288199
+sVLexical
+p1104
+Vcan stick in the pocket of your jacket fresh from a south asian firetrap
+p1105
+sVMaskedITN
+p1106
+Vcan stick in the pocket of your jacket fresh from a South Asian firetrap
+p1107
+sVDisplay
+p1108
+VCan stick in the pocket of your jacket fresh from a South Asian firetrap?
+p1109
+sasVOffset
+p1110
+I1300000
+ssg75
+I13
+sg76
+(lp1111
+(F48.36
+F48.49
+Vand
+p1112
+tp1113
+a(F48.49
+F48.75
+Vstick
+p1114
+tp1115
+a(F48.75
+F48.89
+Vin
+p1116
+tp1117
+a(F48.89
+F48.97
+Vthe
+p1118
+tp1119
+a(F48.97
+F49.28
+Vpocket
+p1120
+tp1121
+a(F49.28
+F49.36
+Vof
+p1122
+tp1123
+a(F49.36
+F49.48
+Vyour
+p1124
+tp1125
+a(F49.48
+F49.88
+Vjacket
+p1126
+tp1127
+a(F49.88
+F50.19
+Vfresh
+p1128
+tp1129
+a(F50.19
+F50.36
+Vfrom
+p1130
+tp1131
+a(F50.36
+F50.44
+Va
+p1132
+tp1133
+a(F50.44
+F50.82
+Vsouth
+p1134
+tp1135
+a(F50.85
+F51.2
+VAsian
+p1136
+tp1137
+a(F51.2
+F51.63
+Vfile
+p1138
+tp1139
+a(F51.63
+F52.0
+Vdrop
+p1140
+tp1141
+asba(imodel
+Chunk
+p1142
+(dp1143
+g6
+Vwent to Snapchat
+p1144
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p1145
+(dp1146
+g14
+F52.935
+sg15
+F55.295
+sbsg16
+VFacebook Twitter Snapchat
+p1147
+sg18
+(dp1148
+VDuration
+p1149
+I21700000
+sVRecognitionStatus
+p1150
+VSuccess
+p1151
+sVNBest
+p1152
+(lp1153
+(dp1154
+VITN
+p1155
+g1147
+sVConfidence
+p1156
+F0.8781
+sVLexical
+p1157
+Vfacebook twitter snapchat
+p1158
+sVMaskedITN
+p1159
+VFacebook Twitter Snapchat
+p1160
+sVDisplay
+p1161
+VFacebook Twitter Snapchat.
+p1162
+sa(dp1163
+VITN
+p1164
+Vis Facebook Twitter Snapchat
+p1165
+sVConfidence
+p1166
+F0.8496897
+sVLexical
+p1167
+Vis facebook twitter snapchat
+p1168
+sVMaskedITN
+p1169
+Vis Facebook Twitter Snapchat
+p1170
+sVDisplay
+p1171
+VIs Facebook Twitter Snapchat?
+p1172
+sa(dp1173
+VITN
+p1174
+Vthis Facebook Twitter Snapchat
+p1175
+sVConfidence
+p1176
+F0.8496897
+sVLexical
+p1177
+Vthis facebook twitter snapchat
+p1178
+sVMaskedITN
+p1179
+Vthis Facebook Twitter Snapchat
+p1180
+sVDisplay
+p1181
+VThis Facebook Twitter Snapchat.
+p1182
+sa(dp1183
+VITN
+p1184
+Vhis Facebook Twitter Snapchat
+p1185
+sVConfidence
+p1186
+F0.847267151
+sVLexical
+p1187
+Vhis facebook twitter snapchat
+p1188
+sVMaskedITN
+p1189
+Vhis Facebook Twitter Snapchat
+p1190
+sVDisplay
+p1191
+VHis Facebook Twitter Snapchat.
+p1192
+sa(dp1193
+VITN
+p1194
+Vit's Facebook Twitter Snapchat
+p1195
+sVConfidence
+p1196
+F0.847267151
+sVLexical
+p1197
+Vit's facebook twitter snapchat
+p1198
+sVMaskedITN
+p1199
+Vit's Facebook Twitter Snapchat
+p1200
+sVDisplay
+p1201
+VIt's Facebook Twitter Snapchat.
+p1202
+sasVOffset
+p1203
+I1500000
+ssg75
+I14
+sg76
+(lp1204
+(F53.87
+F54.14
+Vwent
+p1205
+tp1206
+a(F54.14
+F54.43
+Vto
+p1207
+tp1208
+a(F54.53
+F55.28
+VSnapchat
+p1209
+tp1210
+asba(imodel
+Chunk
+p1211
+(dp1212
+g6
+VInstagram and a thousand other ways to spew your bio across people you've never met
+p1213
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p1214
+(dp1215
+g14
+F55.295
+sg15
+F59.445
+sbsg16
+VInstagram and a thousand other ways to spew your buy lacrosse people you've never met
+p1216
+sg18
+(dp1217
+VDuration
+p1218
+I40500000
+sVRecognitionStatus
+p1219
+VSuccess
+p1220
+sVNBest
+p1221
+(lp1222
+(dp1223
+VITN
+p1224
+g1216
+sVConfidence
+p1225
+F0.784444451
+sVLexical
+p1226
+Vinstagram and a thousand other ways to spew your buy lacrosse people you've never met
+p1227
+sVMaskedITN
+p1228
+VInstagram and a thousand other ways to spew your buy lacrosse people you've never met
+p1229
+sVDisplay
+p1230
+VInstagram and a thousand other ways to spew your buy lacrosse people you've never met.
+p1231
+sa(dp1232
+VITN
+p1233
+VInstagram and a thousand other ways to spew your buy lacrosse people you never met
+p1234
+sVConfidence
+p1235
+F0.784444451
+sVLexical
+p1236
+Vinstagram and a thousand other ways to spew your buy lacrosse people you never met
+p1237
+sVMaskedITN
+p1238
+VInstagram and a thousand other ways to spew your buy lacrosse people you never met
+p1239
+sVDisplay
+p1240
+VInstagram and a thousand other ways to spew your buy lacrosse people you never met.
+p1241
+sa(dp1242
+VITN
+p1243
+VInstagram and a thousand other ways to spew your by lacrosse people you've never met
+p1244
+sVConfidence
+p1245
+F0.779942334
+sVLexical
+p1246
+Vinstagram and a thousand other ways to spew your by lacrosse people you've never met
+p1247
+sVMaskedITN
+p1248
+VInstagram and a thousand other ways to spew your by lacrosse people you've never met
+p1249
+sVDisplay
+p1250
+VInstagram and a thousand other ways to spew your by lacrosse people you've never met.
+p1251
+sa(dp1252
+VITN
+p1253
+VInstagram and a thousand other ways to spew your bail across people you've never met
+p1254
+sVConfidence
+p1255
+F0.7745699
+sVLexical
+p1256
+Vinstagram and a thousand other ways to spew your bail across people you've never met
+p1257
+sVMaskedITN
+p1258
+VInstagram and a thousand other ways to spew your bail across people you've never met
+p1259
+sVDisplay
+p1260
+VInstagram and a thousand other ways to spew your bail across people you've never met.
+p1261
+sa(dp1262
+VITN
+p1263
+VInstagram and a thousand other ways to spew your by lacrosse people you never met
+p1264
+sVConfidence
+p1265
+F0.7745699
+sVLexical
+p1266
+Vinstagram and a thousand other ways to spew your by lacrosse people you never met
+p1267
+sVMaskedITN
+p1268
+VInstagram and a thousand other ways to spew your by lacrosse people you never met
+p1269
+sVDisplay
+p1270
+VInstagram and a thousand other ways to spew your by lacrosse people you never met.
+p1271
+sasVOffset
+p1272
+I600000
+ssg75
+I15
+sg76
+(lp1273
+(F55.31
+F55.87
+VInstagram
+p1274
+tp1275
+a(F55.87
+F55.96
+Vand
+p1276
+tp1277
+a(F55.96
+F55.99
+Va
+p1278
+tp1279
+a(F55.99
+F56.34
+Vthousand
+p1280
+tp1281
+a(F56.34
+F56.51
+Vother
+p1282
+tp1283
+a(F56.51
+F56.71
+Vways
+p1284
+tp1285
+a(F56.71
+F56.85
+Vto
+p1286
+tp1287
+a(F56.85
+F57.16
+Vspew
+p1288
+tp1289
+a(F57.16
+F57.35
+Vyour
+p1290
+tp1291
+a(F57.35
+F57.68
+Vbio
+p1292
+tp1293
+a(F57.68
+F58.02
+Vacross
+p1294
+tp1295
+a(F58.02
+F58.34
+Vpeople
+p1296
+tp1297
+a(F58.34
+F58.5
+Vyou've
+p1298
+tp1299
+a(F58.5
+F58.79
+Vnever
+p1300
+tp1301
+a(F58.79
+F59.29
+Vmet
+p1302
+tp1303
+asba(imodel
+Chunk
+p1304
+(dp1305
+g6
+Vchoose updating a profile
+p1306
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p1307
+(dp1308
+g14
+F59.445
+sg15
+F61.365
+sbsg16
+Vchoose updating your profile
+p1309
+sg18
+(dp1310
+VDuration
+p1311
+I17300000
+sVRecognitionStatus
+p1312
+VSuccess
+p1313
+sVNBest
+p1314
+(lp1315
+(dp1316
+VITN
+p1317
+g1309
+sVConfidence
+p1318
+F0.7865355
+sVLexical
+p1319
+Vchoose updating your profile
+p1320
+sVMaskedITN
+p1321
+Vchoose updating your profile
+p1322
+sVDisplay
+p1323
+VChoose updating your profile.
+p1324
+sa(dp1325
+VITN
+p1326
+Vif you choose updating your profile
+p1327
+sVConfidence
+p1328
+F0.7865355
+sVLexical
+p1329
+Vif you choose updating your profile
+p1330
+sVMaskedITN
+p1331
+Vif you choose updating your profile
+p1332
+sVDisplay
+p1333
+VIf you choose updating your profile?
+p1334
+sa(dp1335
+VITN
+p1336
+VJews updating your profile
+p1337
+sVConfidence
+p1338
+F0.7145557
+sVLexical
+p1339
+Vjews updating your profile
+p1340
+sVMaskedITN
+p1341
+VJews updating your profile
+p1342
+sVDisplay
+p1343
+VJews updating your profile.
+p1344
+sa(dp1345
+VITN
+p1346
+Vchoose updating a profile
+p1347
+sVConfidence
+p1348
+F0.7145557
+sVLexical
+p1349
+Vchoose updating a profile
+p1350
+sVMaskedITN
+p1351
+Vchoose updating a profile
+p1352
+sVDisplay
+p1353
+VChoose updating a profile.
+p1354
+sa(dp1355
+VITN
+p1356
+Vif you choose updating a profile
+p1357
+sVConfidence
+p1358
+F0.7145557
+sVLexical
+p1359
+Vif you choose updating a profile
+p1360
+sVMaskedITN
+p1361
+Vif you choose updating a profile
+p1362
+sVDisplay
+p1363
+VIf you choose updating a profile?
+p1364
+sasVOffset
+p1365
+I1600000
+ssg75
+I16
+sg76
+(lp1366
+(F59.6
+F59.89
+Vchoose
+p1367
+tp1368
+a(F59.89
+F60.5
+Vupdating
+p1369
+tp1370
+a(F60.5
+F60.58
+Va
+p1371
+tp1372
+a(F60.58
+F61.24
+Vprofile
+p1373
+tp1374
+asba(imodel
+Chunk
+p1375
+(dp1376
+g6
+Vtell the world what you had for breakfast and hope that someone
+p1377
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p1378
+(dp1379
+g14
+F61.365
+sg15
+F64.21
+sbsg16
+Vtell the world what you had for breakfast and hope that some
+p1380
+sg18
+(dp1381
+VDuration
+p1382
+I26300000
+sVRecognitionStatus
+p1383
+VSuccess
+p1384
+sVNBest
+p1385
+(lp1386
+(dp1387
+VITN
+p1388
+g1380
+sVConfidence
+p1389
+F0.8760828
+sVLexical
+p1390
+Vtell the world what you had for breakfast and hope that some
+p1391
+sVMaskedITN
+p1392
+Vtell the world what you had for breakfast and hope that some
+p1393
+sVDisplay
+p1394
+VTell the world what you had for breakfast and hope that some.
+p1395
+sa(dp1396
+VITN
+p1397
+Vtell the world where you had for breakfast and hope that some
+p1398
+sVConfidence
+p1399
+F0.862505
+sVLexical
+p1400
+Vtell the world where you had for breakfast and hope that some
+p1401
+sVMaskedITN
+p1402
+Vtell the world where you had for breakfast and hope that some
+p1403
+sVDisplay
+p1404
+VTell the world where you had for breakfast and hope that some.
+p1405
+sa(dp1406
+VITN
+p1407
+Vtell the world what you had for breakfast and I hope that some
+p1408
+sVConfidence
+p1409
+F0.862505
+sVLexical
+p1410
+Vtell the world what you had for breakfast and i hope that some
+p1411
+sVMaskedITN
+p1412
+Vtell the world what you had for breakfast and I hope that some
+p1413
+sVDisplay
+p1414
+VTell the world what you had for breakfast and I hope that some.
+p1415
+sa(dp1416
+VITN
+p1417
+Vtell the world what you had for breakfast and hoped that some
+p1418
+sVConfidence
+p1419
+F0.831264138
+sVLexical
+p1420
+Vtell the world what you had for breakfast and hoped that some
+p1421
+sVMaskedITN
+p1422
+Vtell the world what you had for breakfast and hoped that some
+p1423
+sVDisplay
+p1424
+VTell the world what you had for breakfast and hoped that some.
+p1425
+sa(dp1426
+VITN
+p1427
+Vtell the world what you had for breakfast in hope that some
+p1428
+sVConfidence
+p1429
+F0.831264138
+sVLexical
+p1430
+Vtell the world what you had for breakfast in hope that some
+p1431
+sVMaskedITN
+p1432
+Vtell the world what you had for breakfast in hope that some
+p1433
+sVDisplay
+p1434
+VTell the world what you had for breakfast in hope that some.
+p1435
+sasVOffset
+p1436
+I1800000
+ssg75
+I17
+sg76
+(lp1437
+(F61.49
+F61.72
+Vtell
+p1438
+tp1439
+a(F61.72
+F61.82
+Vthe
+p1440
+tp1441
+a(F61.82
+F62.1
+Vworld
+p1442
+tp1443
+a(F62.1
+F62.22
+Vwhat
+p1444
+tp1445
+a(F62.22
+F62.31
+Vyou
+p1446
+tp1447
+a(F62.31
+F62.52
+Vhad
+p1448
+tp1449
+a(F62.52
+F62.66
+Vfor
+p1450
+tp1451
+a(F62.66
+F63.18
+Vbreakfast
+p1452
+tp1453
+a(F63.18
+F63.29
+Vand
+p1454
+tp1455
+a(F63.29
+F63.52
+Vhope
+p1456
+tp1457
+a(F63.52
+F63.7
+Vthat
+p1458
+tp1459
+a(F63.7
+F64.21
+Vsomeone
+p1460
+tp1461
+asba(imodel
+Chunk
+p1462
+(dp1463
+g6
+Vsomewhere
+p1464
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p1465
+(dp1466
+g14
+F64.21
+sg15
+F64.875
+sbsg16
+Vin some way
+p1467
+sg18
+(dp1468
+VDuration
+p1469
+I5800000
+sVRecognitionStatus
+p1470
+VSuccess
+p1471
+sVNBest
+p1472
+(lp1473
+(dp1474
+VITN
+p1475
+g1467
+sVConfidence
+p1476
+F0.8781
+sVLexical
+p1477
+Vin some way
+p1478
+sVMaskedITN
+p1479
+Vin some way
+p1480
+sVDisplay
+p1481
+VIn some way.
+p1482
+sa(dp1483
+VITN
+p1484
+Vand in some way
+p1485
+sVConfidence
+p1486
+F0.824456632
+sVLexical
+p1487
+Vand in some way
+p1488
+sVMaskedITN
+p1489
+Vand in some way
+p1490
+sVDisplay
+p1491
+VAnd in some way.
+p1492
+sasVOffset
+p1493
+I500000
+ssg75
+I18
+sg76
+(lp1494
+(F64.21
+F64.86
+g1464
+tp1495
+asba(imodel
+Chunk
+p1496
+(dp1497
+g6
+Vcares
+p1498
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p1499
+(dp1500
+g14
+F64.875
+sg15
+F65.74
+sbsg16
+Vgears
+p1501
+sg18
+(dp1502
+VDuration
+p1503
+I7500000
+sVRecognitionStatus
+p1504
+VSuccess
+p1505
+sVNBest
+p1506
+(lp1507
+(dp1508
+VITN
+p1509
+g1501
+sVConfidence
+p1510
+F0.598170638
+sVLexical
+p1511
+Vgears
+p1512
+sVMaskedITN
+p1513
+Vgears
+p1514
+sVDisplay
+p1515
+VGears.
+p1516
+sa(dp1517
+VITN
+p1518
+Vgares
+p1519
+sVConfidence
+p1520
+F0.202715933
+sVLexical
+p1521
+Vgares
+p1522
+sVMaskedITN
+p1523
+Vgares
+p1524
+sVDisplay
+p1525
+VGares.
+p1526
+sa(dp1527
+VITN
+p1528
+Vwho cares
+p1529
+sVConfidence
+p1530
+F0.202715933
+sVLexical
+p1531
+Vwho cares
+p1532
+sVMaskedITN
+p1533
+Vwho cares
+p1534
+sVDisplay
+p1535
+VWho cares?
+p1536
+sa(dp1537
+VITN
+p1538
+Vgerst
+p1539
+sVConfidence
+p1540
+F0.202715933
+sVLexical
+p1541
+Vgerst
+p1542
+sVMaskedITN
+p1543
+Vgerst
+p1544
+sVDisplay
+p1545
+VGerst.
+p1546
+sa(dp1547
+VITN
+p1548
+Vcares
+p1549
+sVConfidence
+p1550
+F0.202715933
+sVLexical
+p1551
+Vcares
+p1552
+sVMaskedITN
+p1553
+Vcares
+p1554
+sVDisplay
+p1555
+VCares.
+p1556
+sasVOffset
+p1557
+I800000
+ssg75
+I19
+sg76
+(lp1558
+(F64.89
+F65.52
+g1498
+tp1559
+asba(imodel
+Chunk
+p1560
+(dp1561
+g6
+VJews looking up old flames
+p1562
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p1563
+(dp1564
+g14
+F65.74
+sg15
+F67.935
+sbsg16
+VJews looking up old flames
+p1565
+sg18
+(dp1566
+VDuration
+p1567
+I19500000
+sVRecognitionStatus
+p1568
+VSuccess
+p1569
+sVNBest
+p1570
+(lp1571
+(dp1572
+VITN
+p1573
+g1565
+sVConfidence
+p1574
+F0.59543097
+sVLexical
+p1575
+Vjews looking up old flames
+p1576
+sVMaskedITN
+p1577
+VJews looking up old flames
+p1578
+sVDisplay
+p1579
+VJews looking up old flames.
+p1580
+sa(dp1581
+VITN
+p1582
+VJews looking up old flings
+p1583
+sVConfidence
+p1584
+F0.579618
+sVLexical
+p1585
+Vjews looking up old flings
+p1586
+sVMaskedITN
+p1587
+VJews looking up old flings
+p1588
+sVDisplay
+p1589
+VJews looking up old flings.
+p1590
+sa(dp1591
+VITN
+p1592
+Vchoose looking up old flames
+p1593
+sVConfidence
+p1594
+F0.579618
+sVLexical
+p1595
+Vchoose looking up old flames
+p1596
+sVMaskedITN
+p1597
+Vchoose looking up old flames
+p1598
+sVDisplay
+p1599
+VChoose looking up old flames.
+p1600
+sa(dp1601
+VITN
+p1602
+Vchoose looking up old flings
+p1603
+sVConfidence
+p1604
+F0.573419869
+sVLexical
+p1605
+Vchoose looking up old flings
+p1606
+sVMaskedITN
+p1607
+Vchoose looking up old flings
+p1608
+sVDisplay
+p1609
+VChoose looking up old flings.
+p1610
+sa(dp1611
+VITN
+p1612
+VJews looking up old feelings
+p1613
+sVConfidence
+p1614
+F0.573419869
+sVLexical
+p1615
+Vjews looking up old feelings
+p1616
+sVMaskedITN
+p1617
+VJews looking up old feelings
+p1618
+sVDisplay
+p1619
+VJews looking up old feelings.
+p1620
+sasVOffset
+p1621
+I2100000
+ssg75
+I20
+sg76
+(lp1622
+(F65.96
+F66.35
+VJews
+p1623
+tp1624
+a(F66.35
+F66.69
+Vlooking
+p1625
+tp1626
+a(F66.69
+F66.9
+Vup
+p1627
+tp1628
+a(F66.9
+F67.11
+Vold
+p1629
+tp1630
+a(F67.11
+F67.86
+Vflames
+p1631
+tp1632
+asba(imodel
+Chunk
+p1633
+(dp1634
+g6
+Vdesperate to believe that you don't look as bad as they do
+p1635
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p1636
+(dp1637
+g14
+F67.935
+sg15
+F70.63499999999999
+sbsg16
+Vdesperate to believe that you don't look as bad as they do
+p1638
+sg18
+(dp1639
+VDuration
+p1640
+I25800000
+sVRecognitionStatus
+p1641
+VSuccess
+p1642
+sVNBest
+p1643
+(lp1644
+(dp1645
+VITN
+p1646
+g1638
+sVConfidence
+p1647
+F0.863363147
+sVLexical
+p1648
+Vdesperate to believe that you don't look as bad as they do
+p1649
+sVMaskedITN
+p1650
+Vdesperate to believe that you don't look as bad as they do
+p1651
+sVDisplay
+p1652
+VDesperate to believe that you don't look as bad as they do.
+p1653
+sa(dp1654
+VITN
+p1655
+Vdesperta believe that you don't look as bad as they do
+p1656
+sVConfidence
+p1657
+F0.7698056
+sVLexical
+p1658
+Vdesperta believe that you don't look as bad as they do
+p1659
+sVMaskedITN
+p1660
+Vdesperta believe that you don't look as bad as they do
+p1661
+sVDisplay
+p1662
+VDesperta believe that you don't look as bad as they do.
+p1663
+sa(dp1664
+VITN
+p1665
+Vdespot to believe that you don't look as bad as they do
+p1666
+sVConfidence
+p1667
+F0.7698056
+sVLexical
+p1668
+Vdespot to believe that you don't look as bad as they do
+p1669
+sVMaskedITN
+p1670
+Vdespot to believe that you don't look as bad as they do
+p1671
+sVDisplay
+p1672
+VDespot to believe that you don't look as bad as they do.
+p1673
+sa(dp1674
+VITN
+p1675
+Vdespart to believe that you don't look as bad as they do
+p1676
+sVConfidence
+p1677
+F0.7698056
+sVLexical
+p1678
+Vdespart to believe that you don't look as bad as they do
+p1679
+sVMaskedITN
+p1680
+Vdespart to believe that you don't look as bad as they do
+p1681
+sVDisplay
+p1682
+VDespart to believe that you don't look as bad as they do.
+p1683
+sasVOffset
+p1684
+I800000
+ssg75
+I21
+sg76
+(lp1685
+(F68.01
+F68.39
+Vdesperate
+p1686
+tp1687
+a(F68.39
+F68.47
+Vto
+p1688
+tp1689
+a(F68.47
+F68.72
+Vbelieve
+p1690
+tp1691
+a(F68.72
+F68.82
+Vthat
+p1692
+tp1693
+a(F68.82
+F69.02
+Vyou
+p1694
+tp1695
+a(F69.02
+F69.2
+Vdon't
+p1696
+tp1697
+a(F69.2
+F69.37
+Vlook
+p1698
+tp1699
+a(F69.37
+F69.47
+Vas
+p1700
+tp1701
+a(F69.47
+F69.75
+Vbad
+p1702
+tp1703
+a(F69.75
+F69.87
+Vas
+p1704
+tp1705
+a(F69.87
+F70.07
+Vthey
+p1706
+tp1707
+a(F70.07
+F70.39
+Vdo
+p1708
+tp1709
+asba(imodel
+Chunk
+p1710
+(dp1711
+g6
+VJews live blogging from the first one to your last breath human
+p1712
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p1713
+(dp1714
+g14
+F70.63499999999999
+sg15
+F74.59
+sbsg16
+VJews live blogging from your first one to your last breath
+p1715
+sg18
+(dp1716
+VDuration
+p1717
+I38800000
+sVRecognitionStatus
+p1718
+VSuccess
+p1719
+sVNBest
+p1720
+(lp1721
+(dp1722
+VITN
+p1723
+g1715
+sVConfidence
+p1724
+F0.7918844
+sVLexical
+p1725
+Vjews live blogging from your first one to your last breath
+p1726
+sVMaskedITN
+p1727
+VJews live blogging from your first one to your last breath
+p1728
+sVDisplay
+p1729
+VJews live blogging from your first one to your last breath.
+p1730
+sa(dp1731
+VITN
+p1732
+VJews live blogging from your first one Tia last breath
+p1733
+sVConfidence
+p1734
+F0.7642515
+sVLexical
+p1735
+Vjews live blogging from your first one tia last breath
+p1736
+sVMaskedITN
+p1737
+VJews live blogging from your first one Tia last breath
+p1738
+sVDisplay
+p1739
+VJews live blogging from your first one Tia last breath.
+p1740
+sa(dp1741
+VITN
+p1742
+VJews live blogging from your first one to your last breath you
+p1743
+sVConfidence
+p1744
+F0.7642515
+sVLexical
+p1745
+Vjews live blogging from your first one to your last breath you
+p1746
+sVMaskedITN
+p1747
+VJews live blogging from your first one to your last breath you
+p1748
+sVDisplay
+p1749
+VJews live blogging from your first one to your last breath you.
+p1750
+sa(dp1751
+VITN
+p1752
+VJews live blogging from your first one Tia last breath you
+p1753
+sVConfidence
+p1754
+F0.7422321
+sVLexical
+p1755
+Vjews live blogging from your first one tia last breath you
+p1756
+sVMaskedITN
+p1757
+VJews live blogging from your first one Tia last breath you
+p1758
+sVDisplay
+p1759
+VJews live blogging from your first one Tia last breath you.
+p1760
+sa(dp1761
+VITN
+p1762
+VJews live blogging from the first one to your last breath
+p1763
+sVConfidence
+p1764
+F0.7422321
+sVLexical
+p1765
+Vjews live blogging from the first one to your last breath
+p1766
+sVMaskedITN
+p1767
+VJews live blogging from the first one to your last breath
+p1768
+sVDisplay
+p1769
+VJews live blogging from the first one to your last breath.
+p1770
+sasVOffset
+p1771
+I400000
+ssg75
+I22
+sg76
+(lp1772
+(F70.88
+F71.28
+VJews
+p1773
+tp1774
+a(F71.28
+F71.67
+Vlive
+p1775
+tp1776
+a(F71.67
+F72.13
+Vblogging
+p1777
+tp1778
+a(F72.13
+F72.31
+Vfrom
+p1779
+tp1780
+a(F72.31
+F72.38
+Vthe
+p1781
+tp1782
+a(F72.38
+F72.78
+Vfirst
+p1783
+tp1784
+a(F72.78
+F73.04
+Vone
+p1785
+tp1786
+a(F73.07
+F73.21
+Vto
+p1787
+tp1788
+a(F73.21
+F73.33
+Vyour
+p1789
+tp1790
+a(F73.33
+F73.71
+Vlast
+p1791
+tp1792
+a(F73.71
+F74.13
+Vbreath
+p1793
+tp1794
+a(F74.26
+F74.59
+Vhuman
+p1795
+tp1796
+asba(imodel
+Chunk
+p1797
+(dp1798
+g6
+Vinteraction reduced to nothing more than data
+p1799
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p1800
+(dp1801
+g14
+F74.59
+sg15
+F77.215
+sbsg16
+Van interaction reduced to nothing more than data
+p1802
+sg18
+(dp1803
+VDuration
+p1804
+I25600000
+sVRecognitionStatus
+p1805
+VSuccess
+p1806
+sVNBest
+p1807
+(lp1808
+(dp1809
+VITN
+p1810
+g1802
+sVConfidence
+p1811
+F0.864103734
+sVLexical
+p1812
+Van interaction reduced to nothing more than data
+p1813
+sVMaskedITN
+p1814
+Van interaction reduced to nothing more than data
+p1815
+sVDisplay
+p1816
+VAn interaction reduced to nothing more than data.
+p1817
+sa(dp1818
+VITN
+p1819
+Vand interaction reduced to nothing more than data
+p1820
+sVConfidence
+p1821
+F0.8565431
+sVLexical
+p1822
+Vand interaction reduced to nothing more than data
+p1823
+sVMaskedITN
+p1824
+Vand interaction reduced to nothing more than data
+p1825
+sVDisplay
+p1826
+VAnd interaction reduced to nothing more than data.
+p1827
+sa(dp1828
+VITN
+p1829
+Van interaction reduce to nothing more than data
+p1830
+sVConfidence
+p1831
+F0.822356641
+sVLexical
+p1832
+Van interaction reduce to nothing more than data
+p1833
+sVMaskedITN
+p1834
+Van interaction reduce to nothing more than data
+p1835
+sVDisplay
+p1836
+VAn interaction reduce to nothing more than data.
+p1837
+sa(dp1838
+VITN
+p1839
+Vand interaction reduce to nothing more than data
+p1840
+sVConfidence
+p1841
+F0.8134386
+sVLexical
+p1842
+Vand interaction reduce to nothing more than data
+p1843
+sVMaskedITN
+p1844
+Vand interaction reduce to nothing more than data
+p1845
+sVDisplay
+p1846
+VAnd interaction reduce to nothing more than data.
+p1847
+sa(dp1848
+VITN
+p1849
+Van interaction reduced are nothing more than data
+p1850
+sVConfidence
+p1851
+F0.8134386
+sVLexical
+p1852
+Van interaction reduced are nothing more than data
+p1853
+sVMaskedITN
+p1854
+Van interaction reduced are nothing more than data
+p1855
+sVDisplay
+p1856
+VAn interaction reduced are nothing more than data.
+p1857
+sasVOffset
+p1858
+I300000
+ssg75
+I23
+sg76
+(lp1859
+(F74.59
+F75.17
+Vinteraction
+p1860
+tp1861
+a(F75.17
+F75.49
+Vreduced
+p1862
+tp1863
+a(F75.49
+F75.58
+Vto
+p1864
+tp1865
+a(F75.58
+F75.92
+Vnothing
+p1866
+tp1867
+a(F75.92
+F76.17
+Vmore
+p1868
+tp1869
+a(F76.17
+F76.39
+Vthan
+p1870
+tp1871
+a(F76.46
+F76.94
+Vdata
+p1872
+tp1873
+asba(imodel
+Chunk
+p1874
+(dp1875
+g6
+Vchoose ten things you never knew by celebrities who had surgery
+p1876
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p1877
+(dp1878
+g14
+F77.215
+sg15
+F80.775
+sbsg16
+Vjuice 10 things you never knew about celebrities who had surgery
+p1879
+sg18
+(dp1880
+VDuration
+p1881
+I31900000
+sVRecognitionStatus
+p1882
+VSuccess
+p1883
+sVNBest
+p1884
+(lp1885
+(dp1886
+VITN
+p1887
+g1879
+sVConfidence
+p1888
+F0.854525566
+sVLexical
+p1889
+Vjuice ten things you never knew about celebrities who had surgery
+p1890
+sVMaskedITN
+p1891
+Vjuice 10 things you never knew about celebrities who had surgery
+p1892
+sVDisplay
+p1893
+VJuice 10 things you never knew about celebrities who had surgery.
+p1894
+sa(dp1895
+VITN
+p1896
+Vjewes 10 things you never knew about celebrities who had surgery
+p1897
+sVConfidence
+p1898
+F0.807750642
+sVLexical
+p1899
+Vjewes ten things you never knew about celebrities who had surgery
+p1900
+sVMaskedITN
+p1901
+Vjewes 10 things you never knew about celebrities who had surgery
+p1902
+sVDisplay
+p1903
+VJewes 10 things you never knew about celebrities who had surgery.
+p1904
+sa(dp1905
+VITN
+p1906
+Vjoos 10 things you never knew about celebrities who had surgery
+p1907
+sVConfidence
+p1908
+F0.807750642
+sVLexical
+p1909
+Vjoos ten things you never knew about celebrities who had surgery
+p1910
+sVMaskedITN
+p1911
+Vj*** 10 things you never knew about celebrities who had surgery
+p1912
+sVDisplay
+p1913
+VJ*** 10 things you never knew about celebrities who had surgery.
+p1914
+sa(dp1915
+VITN
+p1916
+Vjuse 10 things you never knew about celebrities who had surgery
+p1917
+sVConfidence
+p1918
+F0.807750642
+sVLexical
+p1919
+Vjuse ten things you never knew about celebrities who had surgery
+p1920
+sVMaskedITN
+p1921
+Vjuse 10 things you never knew about celebrities who had surgery
+p1922
+sVDisplay
+p1923
+VJuse 10 things you never knew about celebrities who had surgery.
+p1924
+sa(dp1925
+VITN
+p1926
+Vgeus 10 things you never knew about celebrities who had surgery
+p1927
+sVConfidence
+p1928
+F0.807750642
+sVLexical
+p1929
+Vgeus ten things you never knew about celebrities who had surgery
+p1930
+sVMaskedITN
+p1931
+Vgeus 10 things you never knew about celebrities who had surgery
+p1932
+sVDisplay
+p1933
+VGeus 10 things you never knew about celebrities who had surgery.
+p1934
+sasVOffset
+p1935
+I3400000
+ssg75
+I24
+sg76
+(lp1936
+(F77.49
+F77.78
+Vchoose
+p1937
+tp1938
+a(F77.78
+F78.04
+Vten
+p1939
+tp1940
+a(F78.04
+F78.3
+Vthings
+p1941
+tp1942
+a(F78.3
+F78.39
+Vyou
+p1943
+tp1944
+a(F78.39
+F78.6
+Vnever
+p1945
+tp1946
+a(F78.6
+F78.85
+Vknew
+p1947
+tp1948
+a(F78.85
+F79.02
+Vby
+p1949
+tp1950
+a(F79.02
+F79.68
+Vcelebrities
+p1951
+tp1952
+a(F79.68
+F79.79
+Vwho
+p1953
+tp1954
+a(F79.79
+F80.0
+Vhad
+p1955
+tp1956
+a(F80.0
+F80.65
+Vsurgery
+p1957
+tp1958
+asba(imodel
+Chunk
+p1959
+(dp1960
+g6
+Vchoose screaming about abortion choose rape jokes **** shaming
+p1961
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p1962
+(dp1963
+g14
+F80.775
+sg15
+F84.85
+sbsg16
+Vchoose screaming about abortion choose rape jokes slut shaming rufen
+p1964
+sg18
+(dp1965
+VDuration
+p1966
+I44700000
+sVRecognitionStatus
+p1967
+VSuccess
+p1968
+sVNBest
+p1969
+(lp1970
+(dp1971
+VITN
+p1972
+g1964
+sVConfidence
+p1973
+F0.7926718
+sVLexical
+p1974
+Vchoose screaming about abortion choose rape jokes slut shaming rufen
+p1975
+sVMaskedITN
+p1976
+Vchoose screaming about abortion choose rape jokes s*** shaming rufen
+p1977
+sVDisplay
+p1978
+VChoose screaming about abortion choose rape jokes s*** shaming rufen.
+p1979
+sa(dp1980
+VITN
+p1981
+Vchoose screaming about abortion choose rape jokes slut shaming ruffen
+p1982
+sVConfidence
+p1983
+F0.791487
+sVLexical
+p1984
+Vchoose screaming about abortion choose rape jokes slut shaming ruffen
+p1985
+sVMaskedITN
+p1986
+Vchoose screaming about abortion choose rape jokes s*** shaming ruffen
+p1987
+sVDisplay
+p1988
+VChoose screaming about abortion choose rape jokes s*** shaming ruffen.
+p1989
+sa(dp1990
+VITN
+p1991
+Vchoose screaming about abortion to use rape jokes slut shaming rufen
+p1992
+sVConfidence
+p1993
+F0.7914205
+sVLexical
+p1994
+Vchoose screaming about abortion to use rape jokes slut shaming rufen
+p1995
+sVMaskedITN
+p1996
+Vchoose screaming about abortion to use rape jokes s*** shaming rufen
+p1997
+sVDisplay
+p1998
+VChoose screaming about abortion to use rape jokes s*** shaming rufen.
+p1999
+sa(dp2000
+VITN
+p2001
+Vchoose screaming about abortion to use rape jokes slut shaming ruffen
+p2002
+sVConfidence
+p2003
+F0.7901796
+sVLexical
+p2004
+Vchoose screaming about abortion to use rape jokes slut shaming ruffen
+p2005
+sVMaskedITN
+p2006
+Vchoose screaming about abortion to use rape jokes s*** shaming ruffen
+p2007
+sVDisplay
+p2008
+VChoose screaming about abortion to use rape jokes s*** shaming ruffen.
+p2009
+sa(dp2010
+VITN
+p2011
+Vchoose screaming about abortion shoes rape jokes slut shaming rufen
+p2012
+sVConfidence
+p2013
+F0.7802884
+sVLexical
+p2014
+Vchoose screaming about abortion shoes rape jokes slut shaming rufen
+p2015
+sVMaskedITN
+p2016
+Vchoose screaming about abortion shoes rape jokes s*** shaming rufen
+p2017
+sVDisplay
+p2018
+VChoose screaming about abortion shoes rape jokes s*** shaming rufen.
+p2019
+sasVOffset
+p2020
+I2000000
+ssg75
+I25
+sg76
+(lp2021
+(F80.9
+F81.35
+Vchoose
+p2022
+tp2023
+a(F81.38
+F81.94
+Vscreaming
+p2024
+tp2025
+a(F81.94
+F82.15
+Vabout
+p2026
+tp2027
+a(F82.15
+F82.71
+Vabortion
+p2028
+tp2029
+a(F82.78
+F83.04
+Vchoose
+p2030
+tp2031
+a(F83.04
+F83.38
+Vrape
+p2032
+tp2033
+a(F83.38
+F83.84
+Vjokes
+p2034
+tp2035
+a(F83.88
+F84.4
+V****
+p2036
+tp2037
+a(F84.4
+F84.85
+Vshaming
+p2038
+tp2039
+asba(imodel
+Chunk
+p2040
+(dp2041
+g6
+Vrevenge porn an endless tide of depressing
+p2042
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p2043
+(dp2044
+g14
+F84.85
+sg15
+F87.48
+sbsg16
+Vrevenge porn an endless state of depressed
+p2045
+sg18
+(dp2046
+VDuration
+p2047
+I25600000
+sVRecognitionStatus
+p2048
+VSuccess
+p2049
+sVNBest
+p2050
+(lp2051
+(dp2052
+VITN
+p2053
+g2045
+sVConfidence
+p2054
+F0.7047164
+sVLexical
+p2055
+Vrevenge porn an endless state of depressed
+p2056
+sVMaskedITN
+p2057
+Vrevenge porn an endless state of depressed
+p2058
+sVDisplay
+p2059
+VRevenge porn an endless state of depressed.
+p2060
+sa(dp2061
+VITN
+p2062
+Vrevenge porn and endless state of depressed
+p2063
+sVConfidence
+p2064
+F0.7047164
+sVLexical
+p2065
+Vrevenge porn and endless state of depressed
+p2066
+sVMaskedITN
+p2067
+Vrevenge porn and endless state of depressed
+p2068
+sVDisplay
+p2069
+VRevenge porn and endless state of depressed.
+p2070
+sa(dp2071
+VITN
+p2072
+Vthe revenge porn an endless state of depressed
+p2073
+sVConfidence
+p2074
+F0.681250334
+sVLexical
+p2075
+Vthe revenge porn an endless state of depressed
+p2076
+sVMaskedITN
+p2077
+Vthe revenge porn an endless state of depressed
+p2078
+sVDisplay
+p2079
+VThe revenge porn an endless state of depressed.
+p2080
+sa(dp2081
+VITN
+p2082
+Vthe revenge porn and endless state of depressed
+p2083
+sVConfidence
+p2084
+F0.681250334
+sVLexical
+p2085
+Vthe revenge porn and endless state of depressed
+p2086
+sVMaskedITN
+p2087
+Vthe revenge porn and endless state of depressed
+p2088
+sVDisplay
+p2089
+VThe revenge porn and endless state of depressed.
+p2090
+sa(dp2091
+VITN
+p2092
+Vand revenge porn an endless state of depressed
+p2093
+sVConfidence
+p2094
+F0.681250334
+sVLexical
+p2095
+Vand revenge porn an endless state of depressed
+p2096
+sVMaskedITN
+p2097
+Vand revenge porn an endless state of depressed
+p2098
+sVDisplay
+p2099
+VAnd revenge porn an endless state of depressed.
+p2100
+sasVOffset
+p2101
+I400000
+ssg75
+I26
+sg76
+(lp2102
+(F84.85
+F85.5
+Vrevenge
+p2103
+tp2104
+a(F85.5
+F85.79
+Vporn
+p2105
+tp2106
+a(F85.98
+F86.09
+Van
+p2107
+tp2108
+a(F86.09
+F86.42
+Vendless
+p2109
+tp2110
+a(F86.42
+F86.72
+Vtide
+p2111
+tp2112
+a(F86.72
+F86.82
+Vof
+p2113
+tp2114
+a(F86.82
+F87.48
+Vdepressing
+p2115
+tp2116
+asba(imodel
+Chunk
+p2117
+(dp2118
+g6
+Vmisogyny choose nine eleven never happened and if it did it was the Jews
+p2119
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p2120
+(dp2121
+g14
+F87.48
+sg15
+F92.17
+sbsg16
+VI'm just so Janie choose 9/11 never happened and if it did it was the Jews
+p2122
+sg18
+(dp2123
+VDuration
+p2124
+I46000000
+sVRecognitionStatus
+p2125
+VSuccess
+p2126
+sVNBest
+p2127
+(lp2128
+(dp2129
+VITN
+p2130
+g2122
+sVConfidence
+p2131
+F0.7538325
+sVLexical
+p2132
+Vi'm just so janie choose nine eleven never happened and if it did it was the jews
+p2133
+sVMaskedITN
+p2134
+VI'm just so Janie choose 9/11 never happened and if it did it was the Jews
+p2135
+sVDisplay
+p2136
+VI'm just so Janie choose 9/11 never happened and if it did it was the Jews.
+p2137
+sa(dp2138
+VITN
+p2139
+VI'm just so jony choose 9/11 never happened and if it did it was the Jews
+p2140
+sVConfidence
+p2141
+F0.752678
+sVLexical
+p2142
+Vi'm just so jony choose nine eleven never happened and if it did it was the jews
+p2143
+sVMaskedITN
+p2144
+VI'm just so jony choose 9/11 never happened and if it did it was the Jews
+p2145
+sVDisplay
+p2146
+VI'm just so jony choose 9/11 never happened and if it did it was the Jews.
+p2147
+sa(dp2148
+VITN
+p2149
+VI'm a genie choose 9/11 never happened and if it did it was the Jews
+p2150
+sVConfidence
+p2151
+F0.752678
+sVLexical
+p2152
+Vi'm a genie choose nine eleven never happened and if it did it was the jews
+p2153
+sVMaskedITN
+p2154
+VI'm a genie choose 9/11 never happened and if it did it was the Jews
+p2155
+sVDisplay
+p2156
+VI'm a genie choose 9/11 never happened and if it did it was the Jews.
+p2157
+sa(dp2158
+VITN
+p2159
+VI'm so Janie choose 9/11 never happened and if it did it was the Jews
+p2160
+sVConfidence
+p2161
+F0.752678
+sVLexical
+p2162
+Vi'm so janie choose nine eleven never happened and if it did it was the jews
+p2163
+sVMaskedITN
+p2164
+VI'm so Janie choose 9/11 never happened and if it did it was the Jews
+p2165
+sVDisplay
+p2166
+VI'm so Janie choose 9/11 never happened and if it did it was the Jews.
+p2167
+sa(dp2168
+VITN
+p2169
+VI'm so jony choose 9/11 never happened and if it did it was the Jews
+p2170
+sVConfidence
+p2171
+F0.752678
+sVLexical
+p2172
+Vi'm so jony choose nine eleven never happened and if it did it was the jews
+p2173
+sVMaskedITN
+p2174
+VI'm so jony choose 9/11 never happened and if it did it was the Jews
+p2175
+sVDisplay
+p2176
+VI'm so jony choose 9/11 never happened and if it did it was the Jews.
+p2177
+sasVOffset
+p2178
+I300000
+ssg75
+I27
+sg76
+(lp2179
+(F87.48
+F88.18
+Vmisogyny
+p2180
+tp2181
+a(F88.3
+F88.65
+Vchoose
+p2182
+tp2183
+a(F88.65
+F88.92
+Vnine
+p2184
+tp2185
+a(F88.92
+F89.27
+Veleven
+p2186
+tp2187
+a(F89.27
+F89.57
+Vnever
+p2188
+tp2189
+a(F89.57
+F90.12
+Vhappened
+p2190
+tp2191
+a(F90.29
+F90.44
+Vand
+p2192
+tp2193
+a(F90.44
+F90.54
+Vif
+p2194
+tp2195
+a(F90.54
+F90.68
+Vit
+p2196
+tp2197
+a(F90.68
+F90.88
+Vdid
+p2198
+tp2199
+a(F90.88
+F90.99
+Vit
+p2200
+tp2201
+a(F90.99
+F91.13
+Vwas
+p2202
+tp2203
+a(F91.13
+F91.26
+Vthe
+p2204
+tp2205
+a(F91.26
+F91.95
+VJews
+p2206
+tp2207
+asba(imodel
+Chunk
+p2208
+(dp2209
+g6
+Vchooses zero hour
+p2210
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p2211
+(dp2212
+g14
+F92.17
+sg15
+F93.39
+sbsg16
+Vjuza zero
+p2213
+sg18
+(dp2214
+VDuration
+p2215
+I10400000
+sVRecognitionStatus
+p2216
+VSuccess
+p2217
+sVNBest
+p2218
+(lp2219
+(dp2220
+VITN
+p2221
+g2213
+sVConfidence
+p2222
+F0.5037334
+sVLexical
+p2223
+Vjuza zero
+p2224
+sVMaskedITN
+p2225
+Vjuza zero
+p2226
+sVDisplay
+p2227
+VJuza zero.
+p2228
+sa(dp2229
+VITN
+p2230
+Vjusa zero
+p2231
+sVConfidence
+p2232
+F0.5037331
+sVLexical
+p2233
+Vjusa zero
+p2234
+sVMaskedITN
+p2235
+Vjusa zero
+p2236
+sVDisplay
+p2237
+VJusa zero.
+p2238
+sa(dp2239
+VITN
+p2240
+VJews is zero
+p2241
+sVConfidence
+p2242
+F0.5037331
+sVLexical
+p2243
+Vjews is zero
+p2244
+sVMaskedITN
+p2245
+VJews is zero
+p2246
+sVDisplay
+p2247
+VJews is zero.
+p2248
+sa(dp2249
+VITN
+p2250
+VJews a zero
+p2251
+sVConfidence
+p2252
+F0.5037331
+sVLexical
+p2253
+Vjews a zero
+p2254
+sVMaskedITN
+p2255
+VJews a zero
+p2256
+sVDisplay
+p2257
+VJews a zero.
+p2258
+sa(dp2259
+VITN
+p2260
+Vjursa zero
+p2261
+sVConfidence
+p2262
+F0.485555172
+sVLexical
+p2263
+Vjursa zero
+p2264
+sVMaskedITN
+p2265
+Vjursa zero
+p2266
+sVDisplay
+p2267
+VJursa zero.
+p2268
+sasVOffset
+p2269
+I1400000
+ssg75
+I28
+sg76
+(lp2270
+(F92.39
+F92.88
+Vchooses
+p2271
+tp2272
+a(F92.88
+F93.22
+Vzero
+p2273
+tp2274
+a(F93.22
+F93.39
+Vhour
+p2275
+tp2276
+asba(imodel
+Chunk
+p2277
+(dp2278
+g6
+Vcontract on a two hour journey to walk and choose the same for your kids only once
+p2279
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p2280
+(dp2281
+g14
+F93.39
+sg15
+F97.68
+sbsg16
+Vthe contract and a 2 hour journey to work and use the same for your kids only worse
+p2282
+sg18
+(dp2283
+VDuration
+p2284
+I42200000
+sVRecognitionStatus
+p2285
+VSuccess
+p2286
+sVNBest
+p2287
+(lp2288
+(dp2289
+VITN
+p2290
+g2282
+sVConfidence
+p2291
+F0.793548167
+sVLexical
+p2292
+Vthe contract and a two hour journey to work and use the same for your kids only worse
+p2293
+sVMaskedITN
+p2294
+Vthe contract and a 2 hour journey to work and use the same for your kids only worse
+p2295
+sVDisplay
+p2296
+VThe contract and a 2 hour journey to work and use the same for your kids only worse.
+p2297
+sa(dp2298
+VITN
+p2299
+Vthe contract and a 2 hour journey to work and choose the same for your kids only worse
+p2300
+sVConfidence
+p2301
+F0.793548167
+sVLexical
+p2302
+Vthe contract and a two hour journey to work and choose the same for your kids only worse
+p2303
+sVMaskedITN
+p2304
+Vthe contract and a 2 hour journey to work and choose the same for your kids only worse
+p2305
+sVDisplay
+p2306
+VThe contract and a 2 hour journey to work and choose the same for your kids only worse.
+p2307
+sa(dp2308
+VITN
+p2309
+Vthe contract and a 2 hour journey to work can choose the same for your kids only worse
+p2310
+sVConfidence
+p2311
+F0.793548167
+sVLexical
+p2312
+Vthe contract and a two hour journey to work can choose the same for your kids only worse
+p2313
+sVMaskedITN
+p2314
+Vthe contract and a 2 hour journey to work can choose the same for your kids only worse
+p2315
+sVDisplay
+p2316
+VThe contract and a 2 hour journey to work can choose the same for your kids only worse.
+p2317
+sa(dp2318
+VITN
+p2319
+Vthe contract and a 2 hour journey toward can choose the same for your kids only worse
+p2320
+sVConfidence
+p2321
+F0.7874133
+sVLexical
+p2322
+Vthe contract and a two hour journey toward can choose the same for your kids only worse
+p2323
+sVMaskedITN
+p2324
+Vthe contract and a 2 hour journey toward can choose the same for your kids only worse
+p2325
+sVDisplay
+p2326
+VThe contract and a 2 hour journey toward can choose the same for your kids only worse.
+p2327
+sa(dp2328
+VITN
+p2329
+Vcontract and a 2 hour journey to work and use the same for your kids only worse
+p2330
+sVConfidence
+p2331
+F0.7874133
+sVLexical
+p2332
+Vcontract and a two hour journey to work and use the same for your kids only worse
+p2333
+sVMaskedITN
+p2334
+Vcontract and a 2 hour journey to work and use the same for your kids only worse
+p2335
+sVDisplay
+p2336
+VContract and a 2 hour journey to work and use the same for your kids only worse.
+p2337
+sasVOffset
+p2338
+I400000
+ssg75
+I29
+sg76
+(lp2339
+(F93.39
+F94.13
+Vcontract
+p2340
+tp2341
+a(F94.16
+F94.26
+Von
+p2342
+tp2343
+a(F94.26
+F94.32
+Va
+p2344
+tp2345
+a(F94.32
+F94.51
+Vtwo
+p2346
+tp2347
+a(F94.51
+F94.62
+Vhour
+p2348
+tp2349
+a(F94.62
+F94.95
+Vjourney
+p2350
+tp2351
+a(F94.95
+F95.09
+Vto
+p2352
+tp2353
+a(F95.09
+F95.35
+Vwalk
+p2354
+tp2355
+a(F95.35
+F95.51
+Vand
+p2356
+tp2357
+a(F95.51
+F95.76
+Vchoose
+p2358
+tp2359
+a(F95.76
+F95.87
+Vthe
+p2360
+tp2361
+a(F95.87
+F96.14
+Vsame
+p2362
+tp2363
+a(F96.14
+F96.28
+Vfor
+p2364
+tp2365
+a(F96.28
+F96.43
+Vyour
+p2366
+tp2367
+a(F96.43
+F96.78
+Vkids
+p2368
+tp2369
+a(F96.78
+F97.06
+Vonly
+p2370
+tp2371
+a(F97.06
+F97.54
+Vonce
+p2372
+tp2373
+asba(imodel
+Chunk
+p2374
+(dp2375
+g6
+Vand maybe tell yourself it's better that they never happened
+p2376
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p2377
+(dp2378
+g14
+F97.68
+sg15
+F100.97
+sbsg16
+Vand maybe tell yourself it's better than they never happened
+p2379
+sg18
+(dp2380
+VDuration
+p2381
+I26800000
+sVRecognitionStatus
+p2382
+VSuccess
+p2383
+sVNBest
+p2384
+(lp2385
+(dp2386
+VITN
+p2387
+g2379
+sVConfidence
+p2388
+F0.848797858
+sVLexical
+p2389
+Vand maybe tell yourself it's better than they never happened
+p2390
+sVMaskedITN
+p2391
+Vand maybe tell yourself it's better than they never happened
+p2392
+sVDisplay
+p2393
+VAnd maybe tell yourself it's better than they never happened.
+p2394
+sa(dp2395
+VITN
+p2396
+Vand maybe tell yourself it's better that they never happened
+p2397
+sVConfidence
+p2398
+F0.848797858
+sVLexical
+p2399
+Vand maybe tell yourself it's better that they never happened
+p2400
+sVMaskedITN
+p2401
+Vand maybe tell yourself it's better that they never happened
+p2402
+sVDisplay
+p2403
+VAnd maybe tell yourself it's better that they never happened.
+p2404
+sa(dp2405
+VITN
+p2406
+Vand maybe tell yourself is better than they never happened
+p2407
+sVConfidence
+p2408
+F0.841092765
+sVLexical
+p2409
+Vand maybe tell yourself is better than they never happened
+p2410
+sVMaskedITN
+p2411
+Vand maybe tell yourself is better than they never happened
+p2412
+sVDisplay
+p2413
+VAnd maybe tell yourself is better than they never happened.
+p2414
+sa(dp2415
+VITN
+p2416
+Vand maybe tell yourself is better that they never happened
+p2417
+sVConfidence
+p2418
+F0.841092765
+sVLexical
+p2419
+Vand maybe tell yourself is better that they never happened
+p2420
+sVMaskedITN
+p2421
+Vand maybe tell yourself is better that they never happened
+p2422
+sVDisplay
+p2423
+VAnd maybe tell yourself is better that they never happened.
+p2424
+sa(dp2425
+VITN
+p2426
+Vand may be tell yourself it's better than they never happened
+p2427
+sVConfidence
+p2428
+F0.8162442
+sVLexical
+p2429
+Vand may be tell yourself it's better than they never happened
+p2430
+sVMaskedITN
+p2431
+Vand may be tell yourself it's better than they never happened
+p2432
+sVDisplay
+p2433
+VAnd may be tell yourself it's better than they never happened.
+p2434
+sasVOffset
+p2435
+I800000
+ssg75
+I30
+sg76
+(lp2436
+(F97.82
+F97.96
+Vand
+p2437
+tp2438
+a(F97.96
+F98.17
+Vmaybe
+p2439
+tp2440
+a(F98.17
+F98.39
+Vtell
+p2441
+tp2442
+a(F98.39
+F98.74
+Vyourself
+p2443
+tp2444
+a(F98.74
+F98.85
+Vit's
+p2445
+tp2446
+a(F98.85
+F99.14
+Vbetter
+p2447
+tp2448
+a(F99.14
+F99.28
+Vthat
+p2449
+tp2450
+a(F99.28
+F99.38
+Vthey
+p2451
+tp2452
+a(F99.38
+F99.63
+Vnever
+p2453
+tp2454
+a(F99.63
+F100.18
+Vhappened
+p2455
+tp2456
+asba(imodel
+Chunk
+p2457
+(dp2458
+g6
+Vand then sat back
+p2459
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p2460
+(dp2461
+g14
+F100.97
+sg15
+F102.86
+sbsg16
+Vand then set back
+p2462
+sg18
+(dp2463
+VDuration
+p2464
+I10300000
+sVRecognitionStatus
+p2465
+VSuccess
+p2466
+sVNBest
+p2467
+(lp2468
+(dp2469
+VITN
+p2470
+g2462
+sVConfidence
+p2471
+F0.7343862
+sVLexical
+p2472
+Vand then set back
+p2473
+sVMaskedITN
+p2474
+Vand then set back
+p2475
+sVDisplay
+p2476
+VAnd then set back.
+p2477
+sa(dp2478
+VITN
+p2479
+Vunen set back
+p2480
+sVConfidence
+p2481
+F0.6278026
+sVLexical
+p2482
+Vunen set back
+p2483
+sVMaskedITN
+p2484
+Vunen set back
+p2485
+sVDisplay
+p2486
+VUnen set back.
+p2487
+sa(dp2488
+VITN
+p2489
+Vand then sit back
+p2490
+sVConfidence
+p2491
+F0.6278026
+sVLexical
+p2492
+Vand then sit back
+p2493
+sVMaskedITN
+p2494
+Vand then sit back
+p2495
+sVDisplay
+p2496
+VAnd then sit back.
+p2497
+sa(dp2498
+VITN
+p2499
+Vand then step back
+p2500
+sVConfidence
+p2501
+F0.6278026
+sVLexical
+p2502
+Vand then step back
+p2503
+sVMaskedITN
+p2504
+Vand then step back
+p2505
+sVDisplay
+p2506
+VAnd then step back.
+p2507
+sa(dp2508
+VITN
+p2509
+Vunen setback
+p2510
+sVConfidence
+p2511
+F0.334623665
+sVLexical
+p2512
+Vunen setback
+p2513
+sVMaskedITN
+p2514
+Vunen setback
+p2515
+sVDisplay
+p2516
+VUnen setback.
+p2517
+sasVOffset
+p2518
+I8300000
+ssg75
+I31
+sg76
+(lp2519
+(F101.76
+F101.91
+Vand
+p2520
+tp2521
+a(F101.91
+F102.09
+Vthen
+p2522
+tp2523
+a(F102.09
+F102.39
+Vsat
+p2524
+tp2525
+a(F102.39
+F102.86
+Vback
+p2526
+tp2527
+asba(imodel
+Chunk
+p2528
+(dp2529
+g6
+g10
+sg8
+I01
+sg9
+g10
+sg11
+(imodel
+Interval
+p2530
+(dp2531
+g14
+F102.86
+sg15
+F103.38
+sbsg16
+g10
+sg18
+(dp2532
+VDuration
+p2533
+I0
+sVRecognitionStatus
+p2534
+VInitialSilenceTimeout
+p2535
+sVOffset
+p2536
+I4000000
+ssg75
+I33
+sg76
+(lp2537
+sba(imodel
+Chunk
+p2538
+(dp2539
+g6
+Vand smother the pain with an unknown to some unknown drug made in somebody's **** kitchen
+p2540
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p2541
+(dp2542
+g14
+F103.38
+sg15
+F108.22
+sbsg16
+Vand smother the pain with an unknown do have an unknown drug made in somebody's fucking kitchen
+p2543
+sg18
+(dp2544
+VDuration
+p2545
+I47500000
+sVRecognitionStatus
+p2546
+VSuccess
+p2547
+sVNBest
+p2548
+(lp2549
+(dp2550
+VITN
+p2551
+g2543
+sVConfidence
+p2552
+F0.8222433
+sVLexical
+p2553
+Vand smother the pain with an unknown do have an unknown drug made in somebody 's fucking kitchen
+p2554
+sVMaskedITN
+p2555
+Vand smother the pain with an unknown do have an unknown drug made in somebody's f****** kitchen
+p2556
+sVDisplay
+p2557
+VAnd smother the pain with an unknown do have an unknown drug made in somebody's f****** kitchen.
+p2558
+sa(dp2559
+VITN
+p2560
+Vand smother the pain with an unknown dose of an unknown drug made in somebody's fucking kitchen
+p2561
+sVConfidence
+p2562
+F0.8058337
+sVLexical
+p2563
+Vand smother the pain with an unknown dose of an unknown drug made in somebody 's fucking kitchen
+p2564
+sVMaskedITN
+p2565
+Vand smother the pain with an unknown dose of an unknown drug made in somebody's f****** kitchen
+p2566
+sVDisplay
+p2567
+VAnd smother the pain with an unknown dose of an unknown drug made in somebody's f****** kitchen.
+p2568
+sa(dp2569
+VITN
+p2570
+Vand smother the pain with an unknown doulce of an unknown drug made in somebody's fucking kitchen
+p2571
+sVConfidence
+p2572
+F0.8058337
+sVLexical
+p2573
+Vand smother the pain with an unknown doulce of an unknown drug made in somebody 's fucking kitchen
+p2574
+sVMaskedITN
+p2575
+Vand smother the pain with an unknown doulce of an unknown drug made in somebody's f****** kitchen
+p2576
+sVDisplay
+p2577
+VAnd smother the pain with an unknown doulce of an unknown drug made in somebody's f****** kitchen.
+p2578
+sa(dp2579
+VITN
+p2580
+Vand smother the pain with an unknown do list of an unknown drug made in somebody's fucking kitchen
+p2581
+sVConfidence
+p2582
+F0.8058337
+sVLexical
+p2583
+Vand smother the pain with an unknown do list of an unknown drug made in somebody 's fucking kitchen
+p2584
+sVMaskedITN
+p2585
+Vand smother the pain with an unknown do list of an unknown drug made in somebody's f****** kitchen
+p2586
+sVDisplay
+p2587
+VAnd smother the pain with an unknown do list of an unknown drug made in somebody's f****** kitchen.
+p2588
+sa(dp2589
+VITN
+p2590
+Vand some other the pain with an unknown do have an unknown drug made in somebody's fucking kitchen
+p2591
+sVConfidence
+p2592
+F0.8058337
+sVLexical
+p2593
+Vand some other the pain with an unknown do have an unknown drug made in somebody 's fucking kitchen
+p2594
+sVMaskedITN
+p2595
+Vand some other the pain with an unknown do have an unknown drug made in somebody's f****** kitchen
+p2596
+sVDisplay
+p2597
+VAnd some other the pain with an unknown do have an unknown drug made in somebody's f****** kitchen.
+p2598
+sasVOffset
+p2599
+I600000
+ssg75
+I32
+sg76
+(lp2600
+(F103.38
+F103.56
+Vand
+p2601
+tp2602
+a(F103.56
+F103.95
+Vsmother
+p2603
+tp2604
+a(F103.95
+F104.06
+Vthe
+p2605
+tp2606
+a(F104.06
+F104.42
+Vpain
+p2607
+tp2608
+a(F104.42
+F104.6
+Vwith
+p2609
+tp2610
+a(F104.6
+F104.7
+Van
+p2611
+tp2612
+a(F104.7
+F105.2
+Vunknown
+p2613
+tp2614
+a(F105.2
+F105.41
+Vto
+p2615
+tp2616
+a(F105.41
+F105.58
+Vsome
+p2617
+tp2618
+a(F105.58
+F106.06
+Vunknown
+p2619
+tp2620
+a(F106.06
+F106.4
+Vdrug
+p2621
+tp2622
+a(F106.4
+F106.62
+Vmade
+p2623
+tp2624
+a(F106.62
+F106.71
+Vin
+p2625
+tp2626
+a(F106.71
+F107.13
+Vsomebody's
+p2627
+tp2628
+a(F107.13
+F107.67
+V****
+p2629
+tp2630
+a(F107.67
+F108.22
+Vkitchen
+p2631
+tp2632
+asba(imodel
+Chunk
+p2633
+(dp2634
+g6
+g10
+sg8
+I01
+sg9
+g10
+sg11
+(imodel
+Interval
+p2635
+(dp2636
+g14
+F108.22
+sg15
+F108.67
+sbsg16
+g10
+sg18
+(dp2637
+VDuration
+p2638
+I0
+sVRecognitionStatus
+p2639
+VInitialSilenceTimeout
+p2640
+sVOffset
+p2641
+I4000000
+ssg75
+I35
+sg76
+(lp2642
+sba(imodel
+Chunk
+p2643
+(dp2644
+g6
+VJews unfulfilled
+p2645
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p2646
+(dp2647
+g14
+F108.67
+sg15
+F109.64
+sbsg16
+Vchoose unfold
+p2648
+sg18
+(dp2649
+VDuration
+p2650
+I8600000
+sVRecognitionStatus
+p2651
+VSuccess
+p2652
+sVNBest
+p2653
+(lp2654
+(dp2655
+VITN
+p2656
+g2648
+sVConfidence
+p2657
+F0.5282059
+sVLexical
+p2658
+Vchoose unfold
+p2659
+sVMaskedITN
+p2660
+Vchoose unfold
+p2661
+sVDisplay
+p2662
+VChoose unfold.
+p2663
+sa(dp2664
+VITN
+p2665
+Vchoose unfolds
+p2666
+sVConfidence
+p2667
+F0.473972321
+sVLexical
+p2668
+Vchoose unfolds
+p2669
+sVMaskedITN
+p2670
+Vchoose unfolds
+p2671
+sVDisplay
+p2672
+VChoose unfolds.
+p2673
+sa(dp2674
+VITN
+p2675
+VJews unfold
+p2676
+sVConfidence
+p2677
+F0.310606658
+sVLexical
+p2678
+Vjews unfold
+p2679
+sVMaskedITN
+p2680
+VJews unfold
+p2681
+sVDisplay
+p2682
+VJews unfold.
+p2683
+sa(dp2684
+VITN
+p2685
+VJews unfolds
+p2686
+sVConfidence
+p2687
+F0.266972333
+sVLexical
+p2688
+Vjews unfolds
+p2689
+sVMaskedITN
+p2690
+VJews unfolds
+p2691
+sVDisplay
+p2692
+VJews unfolds.
+p2693
+sa(dp2694
+VITN
+p2695
+Vchiuse unfold
+p2696
+sVConfidence
+p2697
+F0.254490018
+sVLexical
+p2698
+Vchiuse unfold
+p2699
+sVMaskedITN
+p2700
+Vchiuse unfold
+p2701
+sVDisplay
+p2702
+VChiuse unfold.
+p2703
+sasVOffset
+p2704
+I600000
+ssg75
+I33
+sg76
+(lp2705
+(F108.67
+F108.93
+VJews
+p2706
+tp2707
+a(F108.93
+F109.64
+Vunfulfilled
+p2708
+tp2709
+asba(imodel
+Chunk
+p2710
+(dp2711
+g6
+Vpromise and wishing it done old differently choose never landing from your own mistakes
+p2712
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p2713
+(dp2714
+g14
+F109.64
+sg15
+F114.54
+sbsg16
+Vpromise and wishing it done it all differently choose never learning from your own mistakes
+p2715
+sg18
+(dp2716
+VDuration
+p2717
+I48300000
+sVRecognitionStatus
+p2718
+VSuccess
+p2719
+sVNBest
+p2720
+(lp2721
+(dp2722
+VITN
+p2723
+g2715
+sVConfidence
+p2724
+F0.8283132
+sVLexical
+p2725
+Vpromise and wishing it done it all differently choose never learning from your own mistakes
+p2726
+sVMaskedITN
+p2727
+Vpromise and wishing it done it all differently choose never learning from your own mistakes
+p2728
+sVDisplay
+p2729
+VPromise and wishing it done it all differently choose never learning from your own mistakes.
+p2730
+sa(dp2731
+VITN
+p2732
+Vpromise and wishing it done it all differently shoes never learning from your own mistakes
+p2733
+sVConfidence
+p2734
+F0.8098319
+sVLexical
+p2735
+Vpromise and wishing it done it all differently shoes never learning from your own mistakes
+p2736
+sVMaskedITN
+p2737
+Vpromise and wishing it done it all differently shoes never learning from your own mistakes
+p2738
+sVDisplay
+p2739
+VPromise and wishing it done it all differently shoes never learning from your own mistakes.
+p2740
+sa(dp2741
+VITN
+p2742
+VI promise and wishing it done it all differently choose never learning from your own mistakes
+p2743
+sVConfidence
+p2744
+F0.8098319
+sVLexical
+p2745
+Vi promise and wishing it done it all differently choose never learning from your own mistakes
+p2746
+sVMaskedITN
+p2747
+VI promise and wishing it done it all differently choose never learning from your own mistakes
+p2748
+sVDisplay
+p2749
+VI promise and wishing it done it all differently choose never learning from your own mistakes.
+p2750
+sa(dp2751
+VITN
+p2752
+Vpromise and wishing it done it all differently Jews never learning from your own mistakes
+p2753
+sVConfidence
+p2754
+F0.805878043
+sVLexical
+p2755
+Vpromise and wishing it done it all differently jews never learning from your own mistakes
+p2756
+sVMaskedITN
+p2757
+Vpromise and wishing it done it all differently Jews never learning from your own mistakes
+p2758
+sVDisplay
+p2759
+VPromise and wishing it done it all differently Jews never learning from your own mistakes.
+p2760
+sa(dp2761
+VITN
+p2762
+Vpromise and wishing it done it all differently choose never learn from your own mistakes
+p2763
+sVConfidence
+p2764
+F0.7907046
+sVLexical
+p2765
+Vpromise and wishing it done it all differently choose never learn from your own mistakes
+p2766
+sVMaskedITN
+p2767
+Vpromise and wishing it done it all differently choose never learn from your own mistakes
+p2768
+sVDisplay
+p2769
+VPromise and wishing it done it all differently choose never learn from your own mistakes.
+p2770
+sasVOffset
+p2771
+I400000
+ssg75
+I34
+sg76
+(lp2772
+(F109.64
+F110.33
+Vpromise
+p2773
+tp2774
+a(F110.5
+F110.63
+Vand
+p2775
+tp2776
+a(F110.63
+F110.89
+Vwishing
+p2777
+tp2778
+a(F110.89
+F111.01
+Vit
+p2779
+tp2780
+a(F111.01
+F111.19
+Vdone
+p2781
+tp2782
+a(F111.19
+F111.56
+Vold
+p2783
+tp2784
+a(F111.56
+F112.15
+Vdifferently
+p2785
+tp2786
+a(F112.38
+F112.7
+Vchoose
+p2787
+tp2788
+a(F112.7
+F112.9
+Vnever
+p2789
+tp2790
+a(F112.9
+F113.37
+Vlanding
+p2791
+tp2792
+a(F113.37
+F113.55
+Vfrom
+p2793
+tp2794
+a(F113.55
+F113.68
+Vyour
+p2795
+tp2796
+a(F113.68
+F113.83
+Vown
+p2797
+tp2798
+a(F113.83
+F114.54
+Vmistakes
+p2799
+tp2800
+asba(imodel
+Chunk
+p2801
+(dp2802
+g6
+g10
+sg8
+I01
+sg9
+g10
+sg11
+(imodel
+Interval
+p2803
+(dp2804
+g14
+F114.54
+sg15
+F114.74
+sbsg16
+g10
+sg18
+(dp2805
+VDuration
+p2806
+I0
+sVRecognitionStatus
+p2807
+VInitialSilenceTimeout
+p2808
+sVOffset
+p2809
+I1000000
+ssg75
+I38
+sg76
+(lp2810
+sba(imodel
+Chunk
+p2811
+(dp2812
+g6
+Vchoose watching history repeats itself choose the slow
+p2813
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p2814
+(dp2815
+g14
+F114.74
+sg15
+F118.19999999999999
+sbsg16
+Vchoose watching history repeat itself choose the slow
+p2816
+sg18
+(dp2817
+VDuration
+p2818
+I33600000
+sVRecognitionStatus
+p2819
+VSuccess
+p2820
+sVNBest
+p2821
+(lp2822
+(dp2823
+VITN
+p2824
+g2816
+sVConfidence
+p2825
+F0.781855
+sVLexical
+p2826
+Vchoose watching history repeat itself choose the slow
+p2827
+sVMaskedITN
+p2828
+Vchoose watching history repeat itself choose the slow
+p2829
+sVDisplay
+p2830
+VChoose watching history repeat itself choose the slow.
+p2831
+sa(dp2832
+VITN
+p2833
+Vchoose watching history repeat itself choose the slaw
+p2834
+sVConfidence
+p2835
+F0.7340856
+sVLexical
+p2836
+Vchoose watching history repeat itself choose the slaw
+p2837
+sVMaskedITN
+p2838
+Vchoose watching history repeat itself choose the slaw
+p2839
+sVDisplay
+p2840
+VChoose watching history repeat itself choose the slaw.
+p2841
+sa(dp2842
+VITN
+p2843
+Vshoes watching history repeat itself choose the slow
+p2844
+sVConfidence
+p2845
+F0.7340856
+sVLexical
+p2846
+Vshoes watching history repeat itself choose the slow
+p2847
+sVMaskedITN
+p2848
+Vshoes watching history repeat itself choose the slow
+p2849
+sVDisplay
+p2850
+VShoes watching history repeat itself choose the slow.
+p2851
+sa(dp2852
+VITN
+p2853
+Vshe's watching history repeat itself choose the slow
+p2854
+sVConfidence
+p2855
+F0.7340856
+sVLexical
+p2856
+Vshe's watching history repeat itself choose the slow
+p2857
+sVMaskedITN
+p2858
+Vshe's watching history repeat itself choose the slow
+p2859
+sVDisplay
+p2860
+VShe's watching history repeat itself choose the slow.
+p2861
+sa(dp2862
+VITN
+p2863
+Vshoes watching history repeat itself choose the slaw
+p2864
+sVConfidence
+p2865
+F0.7078706
+sVLexical
+p2866
+Vshoes watching history repeat itself choose the slaw
+p2867
+sVMaskedITN
+p2868
+Vshoes watching history repeat itself choose the slaw
+p2869
+sVDisplay
+p2870
+VShoes watching history repeat itself choose the slaw.
+p2871
+sasVOffset
+p2872
+I600000
+ssg75
+I35
+sg76
+(lp2873
+(F114.74
+F115.1
+Vchoose
+p2874
+tp2875
+a(F115.1
+F115.56
+Vwatching
+p2876
+tp2877
+a(F115.56
+F115.96
+Vhistory
+p2878
+tp2879
+a(F115.96
+F116.3
+Vrepeats
+p2880
+tp2881
+a(F116.3
+F116.96
+Vitself
+p2882
+tp2883
+a(F117.16
+F117.42
+Vchoose
+p2884
+tp2885
+a(F117.42
+F117.51
+Vthe
+p2886
+tp2887
+a(F117.51
+F118.13
+Vslow
+p2888
+tp2889
+asba(imodel
+Chunk
+p2890
+(dp2891
+g6
+Vreconciliation towards what it can get rather than what you're always hopeful
+p2892
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p2893
+(dp2894
+g14
+F118.19999999999999
+sg15
+F123.07
+sbsg16
+Vreconciliation towards what you can get rather than what you are always hoped for
+p2895
+sg18
+(dp2896
+VDuration
+p2897
+I47800000
+sVRecognitionStatus
+p2898
+VSuccess
+p2899
+sVNBest
+p2900
+(lp2901
+(dp2902
+VITN
+p2903
+g2895
+sVConfidence
+p2904
+F0.762212753
+sVLexical
+p2905
+Vreconciliation towards what you can get rather than what you are always hoped for
+p2906
+sVMaskedITN
+p2907
+Vreconciliation towards what you can get rather than what you are always hoped for
+p2908
+sVDisplay
+p2909
+VReconciliation towards what you can get rather than what you are always hoped for.
+p2910
+sa(dp2911
+VITN
+p2912
+Vreconciliation towards what you can get rather than what you're always hoped for
+p2913
+sVConfidence
+p2914
+F0.762212753
+sVLexical
+p2915
+Vreconciliation towards what you can get rather than what you're always hoped for
+p2916
+sVMaskedITN
+p2917
+Vreconciliation towards what you can get rather than what you're always hoped for
+p2918
+sVDisplay
+p2919
+VReconciliation towards what you can get rather than what you're always hoped for.
+p2920
+sa(dp2921
+VITN
+p2922
+Vreconciliacion towards what you can get rather than what you are always hoped for
+p2923
+sVConfidence
+p2924
+F0.7440595
+sVLexical
+p2925
+Vreconciliacion towards what you can get rather than what you are always hoped for
+p2926
+sVMaskedITN
+p2927
+Vreconciliacion towards what you can get rather than what you are always hoped for
+p2928
+sVDisplay
+p2929
+VReconciliacion towards what you can get rather than what you are always hoped for.
+p2930
+sa(dp2931
+VITN
+p2932
+Vreconciliation towards what you can get rather than what you are always hopeful
+p2933
+sVConfidence
+p2934
+F0.7423336
+sVLexical
+p2935
+Vreconciliation towards what you can get rather than what you are always hopeful
+p2936
+sVMaskedITN
+p2937
+Vreconciliation towards what you can get rather than what you are always hopeful
+p2938
+sVDisplay
+p2939
+VReconciliation towards what you can get rather than what you are always hopeful.
+p2940
+sa(dp2941
+VITN
+p2942
+Vreconciliacion towards what you can get rather than what you're always hoped for
+p2943
+sVConfidence
+p2944
+F0.7423336
+sVLexical
+p2945
+Vreconciliacion towards what you can get rather than what you're always hoped for
+p2946
+sVMaskedITN
+p2947
+Vreconciliacion towards what you can get rather than what you're always hoped for
+p2948
+sVDisplay
+p2949
+VReconciliacion towards what you can get rather than what you're always hoped for.
+p2950
+sasVOffset
+p2951
+I600000
+ssg75
+I36
+sg76
+(lp2952
+(F118.27
+F119.35
+Vreconciliation
+p2953
+tp2954
+a(F119.35
+F119.77
+Vtowards
+p2955
+tp2956
+a(F119.77
+F120.06
+Vwhat
+p2957
+tp2958
+a(F120.06
+F120.19
+Vit
+p2959
+tp2960
+a(F120.19
+F120.36
+Vcan
+p2961
+tp2962
+a(F120.36
+F120.84
+Vget
+p2963
+tp2964
+a(F121.1
+F121.41
+Vrather
+p2965
+tp2966
+a(F121.41
+F121.56
+Vthan
+p2967
+tp2968
+a(F121.56
+F121.75
+Vwhat
+p2969
+tp2970
+a(F121.75
+F121.87
+Vyou're
+p2971
+tp2972
+a(F121.87
+F122.35
+Valways
+p2973
+tp2974
+a(F122.35
+F123.07
+Vhopeful
+p2975
+tp2976
+asba(imodel
+Chunk
+p2977
+(dp2978
+g6
+g10
+sg8
+I01
+sg9
+g10
+sg11
+(imodel
+Interval
+p2979
+(dp2980
+g14
+F123.07
+sg15
+F123.42
+sbsg16
+g10
+sg18
+(dp2981
+VDuration
+p2982
+I0
+sVRecognitionStatus
+p2983
+VNoMatch
+p2984
+sVOffset
+p2985
+I3000000
+ssg75
+I41
+sg76
+(lp2986
+sba(imodel
+Chunk
+p2987
+(dp2988
+g6
+Vsettle for less and keep a brave face on it choose disappointment
+p2989
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p2990
+(dp2991
+g14
+F123.42
+sg15
+F127.85999999999999
+sbsg16
+Vsettle for less and keep a brave face on it choose disappointment
+p2992
+sg18
+(dp2993
+VDuration
+p2994
+I43400000
+sVRecognitionStatus
+p2995
+VSuccess
+p2996
+sVNBest
+p2997
+(lp2998
+(dp2999
+VITN
+p3000
+g2992
+sVConfidence
+p3001
+F0.83241
+sVLexical
+p3002
+Vsettle for less and keep a brave face on it choose disappointment
+p3003
+sVMaskedITN
+p3004
+Vsettle for less and keep a brave face on it choose disappointment
+p3005
+sVDisplay
+p3006
+VSettle for less and keep a brave face on it choose disappointment.
+p3007
+sa(dp3008
+VITN
+p3009
+Vsettle for less and keep a brave face on it and choose disappointment
+p3010
+sVConfidence
+p3011
+F0.83241
+sVLexical
+p3012
+Vsettle for less and keep a brave face on it and choose disappointment
+p3013
+sVMaskedITN
+p3014
+Vsettle for less and keep a brave face on it and choose disappointment
+p3015
+sVDisplay
+p3016
+VSettle for less and keep a brave face on it and choose disappointment.
+p3017
+sa(dp3018
+VITN
+p3019
+Vsettle for less and keep a brave face on it shoes disappointment
+p3020
+sVConfidence
+p3021
+F0.805116951
+sVLexical
+p3022
+Vsettle for less and keep a brave face on it shoes disappointment
+p3023
+sVMaskedITN
+p3024
+Vsettle for less and keep a brave face on it shoes disappointment
+p3025
+sVDisplay
+p3026
+VSettle for less and keep a brave face on it shoes disappointment.
+p3027
+sa(dp3028
+VITN
+p3029
+Vsettle for less than keep a brave face on it choose disappointment
+p3030
+sVConfidence
+p3031
+F0.805116951
+sVLexical
+p3032
+Vsettle for less than keep a brave face on it choose disappointment
+p3033
+sVMaskedITN
+p3034
+Vsettle for less than keep a brave face on it choose disappointment
+p3035
+sVDisplay
+p3036
+VSettle for less than keep a brave face on it choose disappointment.
+p3037
+sa(dp3038
+VITN
+p3039
+Vsettle for less in keep a brave face on it choose disappointment
+p3040
+sVConfidence
+p3041
+F0.805116951
+sVLexical
+p3042
+Vsettle for less in keep a brave face on it choose disappointment
+p3043
+sVMaskedITN
+p3044
+Vsettle for less in keep a brave face on it choose disappointment
+p3045
+sVDisplay
+p3046
+VSettle for less in keep a brave face on it choose disappointment.
+p3047
+sasVOffset
+p3048
+I600000
+ssg75
+I37
+sg76
+(lp3049
+(F123.42
+F123.91
+Vsettle
+p3050
+tp3051
+a(F123.91
+F124.1
+Vfor
+p3052
+tp3053
+a(F124.1
+F124.45
+Vless
+p3054
+tp3055
+a(F124.45
+F124.59
+Vand
+p3056
+tp3057
+a(F124.59
+F124.8
+Vkeep
+p3058
+tp3059
+a(F124.8
+F124.86
+Va
+p3060
+tp3061
+a(F124.86
+F125.22
+Vbrave
+p3062
+tp3063
+a(F125.22
+F125.64
+Vface
+p3064
+tp3065
+a(F125.64
+F125.81
+Von
+p3066
+tp3067
+a(F125.81
+F126.06
+Vit
+p3068
+tp3069
+a(F126.23
+F126.64
+Vchoose
+p3070
+tp3071
+a(F126.7
+F127.58
+Vdisappointment
+p3072
+tp3073
+asba(imodel
+Chunk
+p3074
+(dp3075
+g6
+Vand choose losing the ones you love done as they fall from view a piece of you dies with them
+p3076
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p3077
+(dp3078
+g14
+F127.85999999999999
+sg15
+F132.795
+sbsg16
+Vand choose losing the ones you love done as they fall from view a piece of you dies with them
+p3079
+sg18
+(dp3080
+VDuration
+p3081
+I48200000
+sVRecognitionStatus
+p3082
+VSuccess
+p3083
+sVNBest
+p3084
+(lp3085
+(dp3086
+VITN
+p3087
+g3079
+sVConfidence
+p3088
+F0.855884552
+sVLexical
+p3089
+Vand choose losing the ones you love done as they fall from view a piece of you dies with them
+p3090
+sVMaskedITN
+p3091
+Vand choose losing the ones you love done as they fall from view a piece of you dies with them
+p3092
+sVDisplay
+p3093
+VAnd choose losing the ones you love done as they fall from view a piece of you dies with them.
+p3094
+sa(dp3095
+VITN
+p3096
+Vand choose losing the ones you love done as they fold from view a piece of you dies with them
+p3097
+sVConfidence
+p3098
+F0.846400857
+sVLexical
+p3099
+Vand choose losing the ones you love done as they fold from view a piece of you dies with them
+p3100
+sVMaskedITN
+p3101
+Vand choose losing the ones you love done as they fold from view a piece of you dies with them
+p3102
+sVDisplay
+p3103
+VAnd choose losing the ones you love done as they fold from view a piece of you dies with them.
+p3104
+sa(dp3105
+VITN
+p3106
+Vand shoes losing the ones you love done as they fall from view a piece of you dies with them
+p3107
+sVConfidence
+p3108
+F0.830844164
+sVLexical
+p3109
+Vand shoes losing the ones you love done as they fall from view a piece of you dies with them
+p3110
+sVMaskedITN
+p3111
+Vand shoes losing the ones you love done as they fall from view a piece of you dies with them
+p3112
+sVDisplay
+p3113
+VAnd shoes losing the ones you love done as they fall from view a piece of you dies with them.
+p3114
+sa(dp3115
+VITN
+p3116
+Vand choose losing the ones you love done as they pulled from view a piece of you dies with them
+p3117
+sVConfidence
+p3118
+F0.830844164
+sVLexical
+p3119
+Vand choose losing the ones you love done as they pulled from view a piece of you dies with them
+p3120
+sVMaskedITN
+p3121
+Vand choose losing the ones you love done as they pulled from view a piece of you dies with them
+p3122
+sVDisplay
+p3123
+VAnd choose losing the ones you love done as they pulled from view a piece of you dies with them.
+p3124
+sa(dp3125
+VITN
+p3126
+Vand choose losing the ones you love denies they fall from view a piece of you dies with them
+p3127
+sVConfidence
+p3128
+F0.810935736
+sVLexical
+p3129
+Vand choose losing the ones you love denies they fall from view a piece of you dies with them
+p3130
+sVMaskedITN
+p3131
+Vand choose losing the ones you love denies they fall from view a piece of you dies with them
+p3132
+sVDisplay
+p3133
+VAnd choose losing the ones you love denies they fall from view a piece of you dies with them.
+p3134
+sasVOffset
+p3135
+I800000
+ssg75
+I38
+sg76
+(lp3136
+(F128.14
+F128.31
+Vand
+p3137
+tp3138
+a(F128.31
+F128.7
+Vchoose
+p3139
+tp3140
+a(F128.7
+F129.06
+Vlosing
+p3141
+tp3142
+a(F129.06
+F129.16
+Vthe
+p3143
+tp3144
+a(F129.16
+F129.42
+Vones
+p3145
+tp3146
+a(F129.42
+F129.53
+Vyou
+p3147
+tp3148
+a(F129.53
+F129.78
+Vlove
+p3149
+tp3150
+a(F129.78
+F129.93
+Vdone
+p3151
+tp3152
+a(F129.93
+F130.15
+Vas
+p3153
+tp3154
+a(F130.15
+F130.29
+Vthey
+p3155
+tp3156
+a(F130.29
+F130.6
+Vfall
+p3157
+tp3158
+a(F130.6
+F130.81
+Vfrom
+p3159
+tp3160
+a(F130.81
+F131.08
+Vview
+p3161
+tp3162
+a(F131.08
+F131.17
+Va
+p3163
+tp3164
+a(F131.17
+F131.41
+Vpiece
+p3165
+tp3166
+a(F131.41
+F131.52
+Vof
+p3167
+tp3168
+a(F131.52
+F131.82
+Vyou
+p3169
+tp3170
+a(F131.82
+F132.14
+Vdies
+p3171
+tp3172
+a(F132.14
+F132.33
+Vwith
+p3173
+tp3174
+a(F132.33
+F132.67
+Vthem
+p3175
+tp3176
+asba(imodel
+Chunk
+p3177
+(dp3178
+g6
+Vuntil you can see that one day in the future a piece by piece they will all be gone
+p3179
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p3180
+(dp3181
+g14
+F132.795
+sg15
+F136.82
+sbsg16
+Vuntil you can see that one day in the future piece by piece they will all be gone
+p3182
+sg18
+(dp3183
+VDuration
+p3184
+I39700000
+sVRecognitionStatus
+p3185
+VSuccess
+p3186
+sVNBest
+p3187
+(lp3188
+(dp3189
+VITN
+p3190
+g3182
+sVConfidence
+p3191
+F0.87444973
+sVLexical
+p3192
+Vuntil you can see that one day in the future piece by piece they will all be gone
+p3193
+sVMaskedITN
+p3194
+Vuntil you can see that one day in the future piece by piece they will all be gone
+p3195
+sVDisplay
+p3196
+VUntil you can see that one day in the future piece by piece they will all be gone.
+p3197
+sa(dp3198
+VITN
+p3199
+Vuntil you can see that one day in the future of piece by piece they will all be gone
+p3200
+sVConfidence
+p3201
+F0.863219261
+sVLexical
+p3202
+Vuntil you can see that one day in the future of piece by piece they will all be gone
+p3203
+sVMaskedITN
+p3204
+Vuntil you can see that one day in the future of piece by piece they will all be gone
+p3205
+sVDisplay
+p3206
+VUntil you can see that one day in the future of piece by piece they will all be gone.
+p3207
+sa(dp3208
+VITN
+p3209
+Vuntil you can see that one day in the future of peace by piece they will all be gone
+p3210
+sVConfidence
+p3211
+F0.856754661
+sVLexical
+p3212
+Vuntil you can see that one day in the future of peace by piece they will all be gone
+p3213
+sVMaskedITN
+p3214
+Vuntil you can see that one day in the future of peace by piece they will all be gone
+p3215
+sVDisplay
+p3216
+VUntil you can see that one day in the future of peace by piece they will all be gone.
+p3217
+sa(dp3218
+VITN
+p3219
+Vuntil you can see that one day in the future peace by piece they will all be gone
+p3220
+sVConfidence
+p3221
+F0.856623054
+sVLexical
+p3222
+Vuntil you can see that one day in the future peace by piece they will all be gone
+p3223
+sVMaskedITN
+p3224
+Vuntil you can see that one day in the future peace by piece they will all be gone
+p3225
+sVDisplay
+p3226
+VUntil you can see that one day in the future peace by piece they will all be gone.
+p3227
+sa(dp3228
+VITN
+p3229
+Vuntil you can see that one day in the future of peace by peace they will all be gone
+p3230
+sVConfidence
+p3231
+F0.8408695
+sVLexical
+p3232
+Vuntil you can see that one day in the future of peace by peace they will all be gone
+p3233
+sVMaskedITN
+p3234
+Vuntil you can see that one day in the future of peace by peace they will all be gone
+p3235
+sVDisplay
+p3236
+VUntil you can see that one day in the future of peace by peace they will all be gone.
+p3237
+sasVOffset
+p3238
+I1400000
+ssg75
+I39
+sg76
+(lp3239
+(F132.92
+F133.19
+Vuntil
+p3240
+tp3241
+a(F133.19
+F133.31
+Vyou
+p3242
+tp3243
+a(F133.31
+F133.46
+Vcan
+p3244
+tp3245
+a(F133.46
+F133.79
+Vsee
+p3246
+tp3247
+a(F133.79
+F133.92
+Vthat
+p3248
+tp3249
+a(F133.92
+F134.12
+Vone
+p3250
+tp3251
+a(F134.12
+F134.27
+Vday
+p3252
+tp3253
+a(F134.27
+F134.38
+Vin
+p3254
+tp3255
+a(F134.38
+F134.46
+Vthe
+p3256
+tp3257
+a(F134.46
+F134.79
+Vfuture
+p3258
+tp3259
+a(F134.79
+F134.84
+Va
+p3260
+tp3261
+a(F134.84
+F135.1
+Vpiece
+p3262
+tp3263
+a(F135.1
+F135.26
+Vby
+p3264
+tp3265
+a(F135.26
+F135.59
+Vpiece
+p3266
+tp3267
+a(F135.59
+F135.73
+Vthey
+p3268
+tp3269
+a(F135.73
+F135.88
+Vwill
+p3270
+tp3271
+a(F135.88
+F136.06
+Vall
+p3272
+tp3273
+a(F136.06
+F136.2
+Vbe
+p3274
+tp3275
+a(F136.2
+F136.68
+Vgone
+p3276
+tp3277
+asba(imodel
+Chunk
+p3278
+(dp3279
+g6
+Vwill be nothing left of you to call alive or dead
+p3280
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p3281
+(dp3282
+g14
+F136.82
+sg15
+F139.74
+sbsg16
+Vand they'll be nothing left of you to call alive or dead
+p3283
+sg18
+(dp3284
+VDuration
+p3285
+I27900000
+sVRecognitionStatus
+p3286
+VSuccess
+p3287
+sVNBest
+p3288
+(lp3289
+(dp3290
+VITN
+p3291
+g3283
+sVConfidence
+p3292
+F0.862341344
+sVLexical
+p3293
+Vand they'll be nothing left of you to call alive or dead
+p3294
+sVMaskedITN
+p3295
+Vand they'll be nothing left of you to call alive or dead
+p3296
+sVDisplay
+p3297
+VAnd they'll be nothing left of you to call alive or dead.
+p3298
+sa(dp3299
+VITN
+p3300
+VI will be nothing left of you to call alive or dead
+p3301
+sVConfidence
+p3302
+F0.844075441
+sVLexical
+p3303
+Vi will be nothing left of you to call alive or dead
+p3304
+sVMaskedITN
+p3305
+VI will be nothing left of you to call alive or dead
+p3306
+sVDisplay
+p3307
+VI will be nothing left of you to call alive or dead.
+p3308
+sa(dp3309
+VITN
+p3310
+Vand will be nothing left of you to call alive or dead
+p3311
+sVConfidence
+p3312
+F0.844075441
+sVLexical
+p3313
+Vand will be nothing left of you to call alive or dead
+p3314
+sVMaskedITN
+p3315
+Vand will be nothing left of you to call alive or dead
+p3316
+sVDisplay
+p3317
+VAnd will be nothing left of you to call alive or dead.
+p3318
+sa(dp3319
+VITN
+p3320
+Vand they'll be nothing left if you to call alive or dead
+p3321
+sVConfidence
+p3322
+F0.844075441
+sVLexical
+p3323
+Vand they'll be nothing left if you to call alive or dead
+p3324
+sVMaskedITN
+p3325
+Vand they'll be nothing left if you to call alive or dead
+p3326
+sVDisplay
+p3327
+VAnd they'll be nothing left if you to call alive or dead.
+p3328
+sa(dp3329
+VITN
+p3330
+Vand I'll be nothing left of you to call alive or dead
+p3331
+sVConfidence
+p3332
+F0.844075441
+sVLexical
+p3333
+Vand i'll be nothing left of you to call alive or dead
+p3334
+sVMaskedITN
+p3335
+Vand I'll be nothing left of you to call alive or dead
+p3336
+sVDisplay
+p3337
+VAnd I'll be nothing left of you to call alive or dead.
+p3338
+sasVOffset
+p3339
+I1000000
+ssg75
+I40
+sg76
+(lp3340
+(F136.96
+F137.09
+Vwill
+p3341
+tp3342
+a(F137.09
+F137.18
+Vbe
+p3343
+tp3344
+a(F137.18
+F137.49
+Vnothing
+p3345
+tp3346
+a(F137.49
+F137.88
+Vleft
+p3347
+tp3348
+a(F137.88
+F137.96
+Vof
+p3349
+tp3350
+a(F137.96
+F138.15
+Vyou
+p3351
+tp3352
+a(F138.15
+F138.28
+Vto
+p3353
+tp3354
+a(F138.28
+F138.53
+Vcall
+p3355
+tp3356
+a(F138.53
+F138.89
+Valive
+p3357
+tp3358
+a(F138.89
+F138.99
+Vor
+p3359
+tp3360
+a(F138.99
+F139.42
+Vdead
+p3361
+tp3362
+asba(imodel
+Chunk
+p3363
+(dp3364
+g6
+Vchoose your future Veronica
+p3365
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p3366
+(dp3367
+g14
+F139.74
+sg15
+F141.805
+sbsg16
+Vchoose your future Veronica
+p3368
+sg18
+(dp3369
+VDuration
+p3370
+I22000000
+sVRecognitionStatus
+p3371
+VSuccess
+p3372
+sVNBest
+p3373
+(lp3374
+(dp3375
+VITN
+p3376
+g3368
+sVConfidence
+p3377
+F0.8781
+sVLexical
+p3378
+Vchoose your future veronica
+p3379
+sVMaskedITN
+p3380
+Vchoose your future Veronica
+p3381
+sVDisplay
+p3382
+VChoose your future Veronica.
+p3383
+sa(dp3384
+VITN
+p3385
+Vchoose your future Veronica she
+p3386
+sVConfidence
+p3387
+F0.7995396
+sVLexical
+p3388
+Vchoose your future veronica she
+p3389
+sVMaskedITN
+p3390
+Vchoose your future Veronica she
+p3391
+sVDisplay
+p3392
+VChoose your future Veronica she.
+p3393
+sa(dp3394
+VITN
+p3395
+Vchoose your future Veronica to
+p3396
+sVConfidence
+p3397
+F0.793921
+sVLexical
+p3398
+Vchoose your future veronica to
+p3399
+sVMaskedITN
+p3400
+Vchoose your future Veronica to
+p3401
+sVDisplay
+p3402
+VChoose your future Veronica to.
+p3403
+sa(dp3404
+VITN
+p3405
+VI choose your future Veronica
+p3406
+sVConfidence
+p3407
+F0.793921
+sVLexical
+p3408
+Vi choose your future veronica
+p3409
+sVMaskedITN
+p3410
+VI choose your future Veronica
+p3411
+sVDisplay
+p3412
+VI choose your future Veronica.
+p3413
+sa(dp3414
+VITN
+p3415
+Vchoose your future veronicae she
+p3416
+sVConfidence
+p3417
+F0.6450362
+sVLexical
+p3418
+Vchoose your future veronicae she
+p3419
+sVMaskedITN
+p3420
+Vchoose your future veronicae she
+p3421
+sVDisplay
+p3422
+VChoose your future veronicae she.
+p3423
+sasVOffset
+p3424
+I3700000
+ssg75
+I41
+sg76
+(lp3425
+(F140.06
+F140.35
+Vchoose
+p3426
+tp3427
+a(F140.35
+F140.51
+Vyour
+p3428
+tp3429
+a(F140.51
+F140.97
+Vfuture
+p3430
+tp3431
+a(F140.97
+F141.63
+VVeronica
+p3432
+tp3433
+asba(imodel
+Chunk
+p3434
+(dp3435
+g6
+Vchoose life
+p3436
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p3437
+(dp3438
+g14
+F141.805
+sg15
+F142.95
+sbsg16
+Vchoose life
+p3439
+sg18
+(dp3440
+VDuration
+p3441
+I8700000
+sVRecognitionStatus
+p3442
+VSuccess
+p3443
+sVNBest
+p3444
+(lp3445
+(dp3446
+VITN
+p3447
+g3439
+sVConfidence
+p3448
+F0.875618339
+sVLexical
+p3449
+Vchoose life
+p3450
+sVMaskedITN
+p3451
+Vchoose life
+p3452
+sVDisplay
+p3453
+VChoose life.
+p3454
+sa(dp3455
+VITN
+p3456
+VJews life
+p3457
+sVConfidence
+p3458
+F0.5874355
+sVLexical
+p3459
+Vjews life
+p3460
+sVMaskedITN
+p3461
+VJews life
+p3462
+sVDisplay
+p3463
+VJews life.
+p3464
+sa(dp3465
+VITN
+p3466
+Vchoose the life
+p3467
+sVConfidence
+p3468
+F0.5874355
+sVLexical
+p3469
+Vchoose the life
+p3470
+sVMaskedITN
+p3471
+Vchoose the life
+p3472
+sVDisplay
+p3473
+VChoose the life.
+p3474
+sa(dp3475
+VITN
+p3476
+Vchoose a life
+p3477
+sVConfidence
+p3478
+F0.5874355
+sVLexical
+p3479
+Vchoose a life
+p3480
+sVMaskedITN
+p3481
+Vchoose a life
+p3482
+sVDisplay
+p3483
+VChoose a life.
+p3484
+sasVOffset
+p3485
+I2400000
+ssg75
+I42
+sg76
+(lp3486
+(F141.98
+F142.38
+Vchoose
+p3487
+tp3488
+a(F142.38
+F142.95
+Vlife
+p3489
+tp3490
+asba(imodel
+Chunk
+p3491
+(dp3492
+g6
+g10
+sg8
+I01
+sg9
+g10
+sg11
+(imodel
+Interval
+p3493
+(dp3494
+g14
+F142.95
+sg15
+F155.35
+sbsg16
+g10
+sg18
+(dp3495
+VDuration
+p3496
+I0
+sVRecognitionStatus
+p3497
+VInitialSilenceTimeout
+p3498
+sVOffset
+p3499
+I87800000
+ssg75
+I48
+sg76
+(lp3500
+sba(imodel
+Chunk
+p3501
+(dp3502
+g6
+g10
+sg8
+I01
+sg9
+g10
+sg11
+(imodel
+Interval
+p3503
+(dp3504
+g14
+F155.35
+sg15
+F155.35
+sbsg16
+g10
+sg18
+(dp3505
+VDuration
+p3506
+I0
+sVRecognitionStatus
+p3507
+VInitialSilenceTimeout
+p3508
+sVOffset
+p3509
+I0
+ssg75
+I49
+sg76
+(lp3510
+sba(imodel
+Chunk
+p3511
+(dp3512
+g6
+Vanyway can you sense at the time
+p3513
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p3514
+(dp3515
+g14
+F155.35
+sg15
+F160.297
+sbsg16
+Vanyway
+p3516
+sg18
+(dp3517
+VDuration
+p3518
+I14200000
+sVRecognitionStatus
+p3519
+VSuccess
+p3520
+sVNBest
+p3521
+(lp3522
+(dp3523
+VITN
+p3524
+g3516
+sVConfidence
+p3525
+F0.8781
+sVLexical
+p3526
+Vanyway
+p3527
+sVMaskedITN
+p3528
+Vanyway
+p3529
+sVDisplay
+p3530
+VAnyway.
+p3531
+sa(dp3532
+VITN
+p3533
+Vany way
+p3534
+sVConfidence
+p3535
+F0.5308822
+sVLexical
+p3536
+Vany way
+p3537
+sVMaskedITN
+p3538
+Vany way
+p3539
+sVDisplay
+p3540
+VAny way?
+p3541
+sa(dp3542
+VITN
+p3543
+Vanyways
+p3544
+sVConfidence
+p3545
+F0.5308822
+sVLexical
+p3546
+Vanyways
+p3547
+sVMaskedITN
+p3548
+Vanyways
+p3549
+sVDisplay
+p3550
+VAnyways.
+p3551
+sasVOffset
+p3552
+I400000
+ssg75
+I43
+sg76
+(lp3553
+(F155.35
+F155.92
+Vanyway
+p3554
+tp3555
+a(F157.6
+F157.9
+Vcan
+p3556
+tp3557
+a(F157.9
+F158.08
+Vyou
+p3558
+tp3559
+a(F158.08
+F158.33
+Vsense
+p3560
+tp3561
+a(F158.33
+F158.46
+Vat
+p3562
+tp3563
+a(F158.46
+F158.55
+Vthe
+p3564
+tp3565
+a(F158.55
+F158.96
+Vtime
+p3566
+tp3567
+asba(imodel
+Chunk
+p3568
+(dp3569
+g6
+g10
+sg8
+I00
+sg9
+g10
+sg11
+(imodel
+Interval
+p3570
+(dp3571
+g14
+F160.297
+sg15
+F161.634
+sbsg16
+g10
+sg18
+(dp3572
+VDuration
+p3573
+I0
+sVRecognitionStatus
+p3574
+VInitialSilenceTimeout
+p3575
+sVOffset
+p3576
+I13000000
+ssg75
+I44
+sg76
+(lp3577
+(F161.634
+F161.634
+g10
+tp3578
+asbasS'maxChunkSize'
+p3579
+F5.0
+sS'name'
+p3580
+V/home/d33pblue/Documenti/uni/Subeeper/test/t2.mp4
+p3581
+sb.

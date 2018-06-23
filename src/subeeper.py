@@ -14,6 +14,7 @@ import configparser
 import time
 import vlc
 import sys
+import pickle
 
 # the frame which contains GUI
 class MainWindow(QMainWindow):
@@ -189,6 +190,9 @@ class EditPage(QWidget):
                                QColor(0,0,0))
         self.videoframe.setPalette(self.palette)
         self.videoframe.setAutoFillBackground(True)
+        self.timer = QTimer(self)
+        self.timer.setInterval(50)
+        self.timer.timeout.connect(self.updateUI)
         return self.videoframe
 
     def buildSidePannel(self):
@@ -200,6 +204,7 @@ class EditPage(QWidget):
         lay2.setAlignment(Qt.AlignBottom)
         widget2.setLayout(lay2)
         self.slider = QSlider(Qt.Vertical)
+        self.slider.setMaximum(1000)
         lay1.addWidget(self.slider)
         lay1.addWidget(widget2)
         self.sidepannel.setLayout(lay1)
@@ -210,6 +215,9 @@ class EditPage(QWidget):
         lay2.addWidget(self.startTimer)
         lay2.addWidget(self.endTimer)
         lay2.addWidget(self.buildButtons())
+        saveButton = QPushButton("Save project")
+        saveButton.clicked.connect(self.save_project)
+        lay2.addWidget(saveButton)
         return self.sidepannel
 
     def buildTimer(self):
@@ -224,19 +232,90 @@ class EditPage(QWidget):
         lay = QHBoxLayout()
         w.setLayout(lay)
         self.playbutton = QPushButton("Play")
+        self.playbutton.clicked.connect(self.PlayPause)
         self.nextbutton = QPushButton(">>")
+        self.nextbutton.clicked.connect(self.nextChunk)
         self.prewbutton = QPushButton("<<")
         lay.addWidget(self.prewbutton)
         lay.addWidget(self.playbutton)
         lay.addWidget(self.nextbutton)
         return w
 
-    def openFile(self):
-        fileName, _ = QFileDialog.getOpenFileName(self, "Open Movie",
-                QDir.homePath())
-        if fileName != '':
-            self.mediaPlayer.setMedia(
-                    QMediaContent(QUrl.fromLocalFile(fileName)))
+    def setVideo(self,video):
+        self.video = video
+        filename = video.getName()
+        # create the media
+        if sys.version < '3':
+            filename = unicode(filename)
+        self.media = self.instance.media_new(filename)
+        # put the media in the media player
+        self.mediaplayer.set_media(self.media)
+        # parse the metadata of the file
+        self.media.parse()
+        # the media player has to be 'connected' to the QFrame
+        # (otherwise a video would be displayed in it's own window)
+        # this is platform specific!
+        # you have to give the id of the QFrame (or similar object) to
+        # vlc, different platforms have different functions for this
+        if sys.platform.startswith('linux'): # for Linux using the X Server
+            self.mediaplayer.set_xwindow(self.videoframe.winId())
+        elif sys.platform == "win32": # for Windows
+            self.mediaplayer.set_hwnd(self.videoframe.winId())
+        elif sys.platform == "darwin": # for MacOS
+            self.mediaplayer.set_nsobject(int(self.videoframe.winId()))
+        self.chunkManager = cnt.ChunkManager(self,self.mediaplayer,video)
+        self.PlayPause()
+
+    def PlayPause(self):
+        """Toggle play/pause status
+        """
+        if self.mediaplayer.is_playing():
+            self.mediaplayer.pause()
+            self.playbutton.setText("Play")
+            self.isPaused = True
+        else:
+            if self.mediaplayer.play() == -1:
+                # self.OpenFile()
+                return
+            self.mediaplayer.play()
+            self.playbutton.setText("Pause")
+            self.timer.start()
+            self.isPaused = False
+
+    def updateUI(self):
+        # setting the slider to the desired position
+        self.slider.setValue(self.mediaplayer.get_position() * 1000)
+        self.chunkManager.limitVideo()
+        self.chunkManager.updateSubtitles()
+        if not self.mediaplayer.is_playing():
+            # no need to call this function if nothing is played
+            self.timer.stop()
+            if not self.isPaused:
+                # after the video finished, the play button stills shows
+                # "Pause", not the desired behavior of a media player
+                # this will fix it
+                self.Stop()
+
+    def Stop(self):
+        self.mediaplayer.stop()
+        self.playbutton.setText("Play")
+        self.chunkManager.setCurrent(0)
+
+    def nextChunk(self):
+        self.chunkManager.nextChunk()
+
+    def save_project(self):
+        fileName, _ = QFileDialog.getSaveFileName(self, "Save Video",
+                QDir.homePath(),filter="Subeeper File (*.subeeper)")
+        if fileName == None or fileName == "":
+            fileName = "Untitled.subeeper"
+        if not fileName.endswith(".subeeper"):
+            fileName = fileName+".subeeper"
+        with open(fileName,"wb") as f:
+            pickle.dump(self.video,f)
+        print "FILENAME",fileName
+        print "SAVED!"
+
 
 
 
